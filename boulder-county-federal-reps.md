@@ -1,4 +1,4 @@
-Official Ballot Content for refference [5][5] 
+Official Ballot Content for reference [5][5] 
 
 # Federal Offices
 ## Representative to the 116th United States Congress - District 2 (Vote for One)
@@ -18,4 +18,4 @@ Official Ballot Content for refference [5][5]
 [2]: https://www.peteryuforcongress.com/
 [3]: http://www.barris4congress.com/meet-roger/
 [4]: https://www.nickthomasforcongress.com/
-[5]:https://assets.bouldercounty.org/wp-content/uploads/2018/09/2018-General-Election-Combined-Ballot-Content.pdf
+[5]: https://assets.bouldercounty.org/wp-content/uploads/2018/09/2018-General-Election-Combined-Ballot-Content.pdf

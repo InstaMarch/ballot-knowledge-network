@@ -22,10 +22,10 @@ Official Ballot Content for reference [5][5]
 
 ## Representative for the 116th United States Congress - District 4 (Vote for One)
 #### Karen McCormick 
-* [Campaign Website] [6]
+* [Campaign Website][6]
 
 #### Ken Buck 
-* [Campaign Website] [7]
+* [Campaign Website][7]
 
 [6]: https://www.mccormickforcongress.org/
 [7]: https://buck.house.gov/

@@ -7,11 +7,11 @@
 ### Jenna Griswold 
 * [Campaign Website][2]
 ### Amanda Campbell
-* [Campaign Website][3]
+* [Official Ballot][3]
 ### Blake Huber
-* [Campaign Website][4]
+* [Party Website][4]
 
 [1]: https://winwithwayne.org/
 [2]: https://www.jenaforcolorado.com/
-[3]: http://tracer.sos.colorado.gov/PublicSite/SearchPages/CandidateDetail.aspx?SeqID=17826
+[3]: https://assets.bouldercounty.org/wp-content/uploads/2018/09/2018-General-Election-Combined-Ballot-Content.pdf
 [4]: http://www.unitypartycolorado.com/convention/

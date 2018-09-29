@@ -14,4 +14,4 @@
 [1]: https://winwithwayne.org/
 [2]: https://www.jenaforcolorado.com/
 [3]: http://tracer.sos.colorado.gov/PublicSite/SearchPages/CandidateDetail.aspx?SeqID=17826
-[4]: https://ballotpedia.org/Blake_Huber
+[4]: http://www.unitypartycolorado.com/convention/

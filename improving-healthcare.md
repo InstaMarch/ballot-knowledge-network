@@ -32,8 +32,8 @@ could have been avoided with less expensive preventative treatment.
 > and supporting her family.
 
 Sources:
-[Polis For Colorado: Healthcare Policy](https://polisforcolorado.com/healthcare/)
-[Jared Polis in The Aspen Times on Universal Healthcare](https://www.aspentimes.com/opinion/columns/jared-polis-bringing-universal-health-care-to-colorado/) 
+* [Polis For Colorado: Healthcare Policy](https://polisforcolorado.com/healthcare/)
+* [Jared Polis in The Aspen Times on Universal Healthcare](https://www.aspentimes.com/opinion/columns/jared-polis-bringing-universal-health-care-to-colorado/) 
 
 ## Walker Stapleton
 ### Positions:
@@ -49,8 +49,7 @@ businesses out of our state."
 coverage
 they can purchase."
 Sources:
-
-[Stapleton For Colorado: Healthcare](https://www.stapletonforcolorado.com/issue/health-care/)
+* [Stapleton For Colorado: Healthcare](https://www.stapletonforcolorado.com/issue/health-care/)
 
 ## Bill Hammons
 
@@ -59,8 +58,7 @@ Sources:
 Colorado Medicare for All system"
 
 Sources:
-
-[Bill Hammons For Colorado Governor](https://www.billisrunning.com/)
+* [Bill Hammons For Colorado Governor](https://www.billisrunning.com/)
 
 ## Scott Helker
 
@@ -72,4 +70,4 @@ their insurance policy. Included in this are the self-insured who can drive
 competition within the healthcare system and start driving down prices."
 
 Sources:
-[Scott Helker's answer to Colorado Independent's questionnaire](https://www.coloradoindependent.com/2018-governor-race/governors-race-questionnaire/scott-helker-questionnaire/)
+* [Scott Helker's answer to Colorado Independent's questionnaire](https://www.coloradoindependent.com/2018-governor-race/governors-race-questionnaire/scott-helker-questionnaire/)

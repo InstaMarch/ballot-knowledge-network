@@ -21,7 +21,7 @@ electorate
 * Links to the sources of information
 
 ## Table of Contents
-[Colorado Attorny General](../attorney-general.html)
+[Colorado Attorney General](../attorney-general.html)
 
 ## Anyone can participate
 

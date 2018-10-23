@@ -20,6 +20,9 @@ electorate
 * Each candidate's voting record on related measures
 * Links to the sources of information
 
+## Table of Contents
+[Colorado Attorny General](../attorney-general)
+
 ## Anyone can participate
 
 You can be:

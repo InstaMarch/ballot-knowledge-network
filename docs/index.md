@@ -1,7 +1,12 @@
 # Colorado Midterm Issues 2018
 
 ## Table of Contents
-[Colorado Attorney General](../colorado-midterm-issues-2018/attorney-general.html)
+Federal Offices
+* [District 2 and 4 Representives to United States Congress](../colorado-midterm-issues-2018/boulder-county-federal-reps.html)
+
+State Offices
+* [Colorado Attorney General](../colorado-midterm-issues-2018/attorney-general.html)
+
 
 ## Our purpose
 

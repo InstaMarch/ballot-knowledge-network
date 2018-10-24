@@ -8,6 +8,8 @@ State Offices
 * [Governor/Lieutenant Governor](https://instamarch.github.io/colorado-midterm-issues-2018/governor-race/index.html)
 * [Colorado Attorney General](https://instamarch.github.io/colorado-midterm-issues-2018/attorney-general.html)
 * [Colorado State Treasurer](https://instamarch.github.io/colorado-midterm-issues-2018/state-treasurer.html)
+* [State Board of Education Member - District 2](https://instamarch.github.io/colorado-midterm-issues-2018/state-board-of-education-member-district-2.html)
+
 
 ## Our purpose
 

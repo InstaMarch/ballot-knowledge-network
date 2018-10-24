@@ -4,10 +4,13 @@
 
 ### Leslie Smith
 * [Campaign Website][1]
+
 ### Ken Montera
 * [Campaign Website][2]
+
 ### Christopher E. Otwell 
 * [Campaign Website][3]
+
 ### James K. Triebert
 * [Campaign Website][4]
 

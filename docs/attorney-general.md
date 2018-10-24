@@ -4,8 +4,10 @@
 
 ### Phil Weiser
 * [Campaign Website][1]
+
 ### George Brauchler
 * [Campaign Website][2]
+
 ### William F. Robinson III
 * [In the News][3]
 

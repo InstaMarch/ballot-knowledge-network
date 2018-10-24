@@ -4,6 +4,7 @@
 
 ### Joseph K Pelle
 * [Campaign Website][1]
+
 ### John Bedrick 
 * [Campaign Website][2]
 

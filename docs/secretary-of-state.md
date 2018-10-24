@@ -4,10 +4,13 @@
 
 ### Wayne Williams 
 * [Campaign Website][1]
+
 ### Jenna Griswold 
 * [Campaign Website][2]
+
 ### Amanda Campbell
 * [Official Ballot][3]
+
 ### Blake Huber
 * [Party Website][4]
 

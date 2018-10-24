@@ -4,6 +4,7 @@
 
 ### Johnny Barrett
 * [Campaign Website][1]
+
 ### Angelika Schroeder
 * [Campaign Website][2]
 

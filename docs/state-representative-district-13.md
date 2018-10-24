@@ -4,6 +4,7 @@
 
 ### Kevin Sipple
 * [Campaign Website][1]
+
 ### K. C. Becker 
 * [Campaign Website][2]
 

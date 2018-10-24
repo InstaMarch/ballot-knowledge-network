@@ -9,7 +9,7 @@ State Offices
 * [Colorado Attorney General](https://instamarch.github.io/colorado-midterm-issues-2018/attorney-general.html)
 * [Colorado State Treasurer](https://instamarch.github.io/colorado-midterm-issues-2018/state-treasurer.html)
 * [State Board of Education Member - District 2](https://instamarch.github.io/colorado-midterm-issues-2018/state-board-of-education-member-district-2.html)
-* [State Board of Education Member - District 2](https://instamarch.github.io/colorado-midterm-issues-2018/state-board-of-education-member-district-4.html)
+* [State Board of Education Member - District 4](https://instamarch.github.io/colorado-midterm-issues-2018/state-board-of-education-member-district-4.html)
 * [Regent of the University of Colorado - At Large](https://instamarch.github.io/colorado-midterm-issues-2018/regent-of-university-of-colorado.html)
 * [State Senator - District 16](https://instamarch.github.io/colorado-midterm-issues-2018/state-senator-district-16.html)
 * [State Representative - District 10](https://instamarch.github.io/colorado-midterm-issues-2018/state-representative-district-10.html)

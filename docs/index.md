@@ -5,8 +5,9 @@ Federal Offices
 * [District 2 and 4 Representives to United States Congress](../colorado-midterm-issues-2018/boulder-county-federal-reps.html)
 
 State Offices
-* [Colorado Attorney General](../colorado-midterm-issues-2018/attorney-general.html)
-
+* [Governor/Lieutenant Governor](https://instamarch.github.io/colorado-midterm-issues-2018/governor-race/index.html)
+* [Colorado Attorney General](https://instamarch.github.io/colorado-midterm-issues-2018/attorney-general.html)
+* [Colorado State Treasurer](https://instamarch.github.io/colorado-midterm-issues-2018/state-treasurer.html)
 
 ## Our purpose
 

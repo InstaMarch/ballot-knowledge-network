@@ -4,8 +4,10 @@
 
 ### Gary Cooper
 * [Campaign Website][1]
+
 ### Cliff Wilmeng
 * [Campaign Website][2]
+
 ### Matt Jones
 * [Campaign Website][3]
 

@@ -5,16 +5,21 @@
 ### Ken Lish
 * [Campaign Website][1]
 * [Facebook Website][2]
+
 ### Dalton Valette 
 * [Campaign Website][3]
 * [Facebook Website][4]
+
 ### Theresa A. Clark
 * [Campaign Website][5]
+
 ### Neal S. Shah 
 * [Campaign Website][6]
+
 ### Anthony L. Stewart
 * [Campaign Website][7]
 * [Facebook Website][8]
+
 ### Laura Skladzinski 
 * [Campaign Website][9]
 * [Facebook Website][10]

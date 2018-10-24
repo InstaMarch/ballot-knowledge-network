@@ -4,9 +4,11 @@
 
 ### Gladys M. Forshee
 * [Town of Superior][1]
+
 ### Clint Folsom 
 * [Campaign Website][2]
 * [Town of Superior Mayor Bio][3]
+
 ### Jack Chang 
 * [Town of Superior][4]
 

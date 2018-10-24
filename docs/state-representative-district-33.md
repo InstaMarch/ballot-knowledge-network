@@ -4,10 +4,13 @@
 
 ### Eric Rutherford
 * [Campaign Website][1]
+
 ### Matt Gray 
 * [Campaign Website][2]
+
 ### Kim Tavendale 
 * [Campaign Website][3]
+
 ### Jay Geyer 
 * [Campaign Website][4]
 

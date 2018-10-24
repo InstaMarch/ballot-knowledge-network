@@ -2,13 +2,13 @@ Official Ballot Content for reference [5][5]
 
 # Federal Offices
 ## State Treasurer 
-#### Brian Watson
+### Brian Watson
 * [Campaign Website][1]
 
-#### Dave Young 
+### Dave Young 
 * [Campaign Website][2]
 
-#### Gerald F. Kilpatrick 
+### Gerald F. Kilpatrick 
 * [Television Statement][3]
 
 

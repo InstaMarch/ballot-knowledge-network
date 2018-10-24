@@ -4,8 +4,10 @@
 
 ### Tammy Story
 * [Campaign Website][1]
+
 ### Tim Neville
 * [Campaign Website][2]
+
 ### James Gilman
 * [Official Ballot][3]
 

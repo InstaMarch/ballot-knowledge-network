@@ -4,6 +4,7 @@
 
 ### Sonya Jaquez Lewis
 * [Campaign Website][1]
+
 ### Theresa Stets 
 * [Campaign Website][2]
 

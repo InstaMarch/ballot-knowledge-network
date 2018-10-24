@@ -4,6 +4,7 @@
 
 ### Tim Krug
 * [Campaign Website][1]
+
 ### Debora L. Scheffel
 * [Department of Education Profile][2]
 

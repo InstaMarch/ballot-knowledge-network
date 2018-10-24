@@ -1,5 +1,8 @@
 # Colorado Midterm Issues 2018
 
+## Table of Contents
+[Colorado Attorney General](../colorado-midterm-issues-2018/attorney-general.html)
+
 ## Our purpose
 
 How can we make Democracy effective? How can we increase trust in Democracy?

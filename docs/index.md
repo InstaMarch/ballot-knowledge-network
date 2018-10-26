@@ -22,6 +22,7 @@
 * [State Representative - District 13](https://instamarch.github.io/colorado-midterm-issues-2018/state-representative-district-13.html)
 * [State Representative - District 33](https://instamarch.github.io/colorado-midterm-issues-2018/state-representative-district-33.html)
 * [District Attorney - 20th Judicial District](https://instamarch.github.io/colorado-midterm-issues-2018/district-attorney-20th-judicial-district.html)
+* [Regional Transportation District Director - District O](https://instamarch.github.io/colorado-midterm-issues-2018/regional-transportation-district-director-district-O.html)
 
 ## Our purpose
 

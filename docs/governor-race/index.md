@@ -2,10 +2,10 @@
 
 ## Candidates
 
-* Bill Hammons [3][3]
-* Scott Helker [4][4] 
-* Jared Polis [5][5]
-* Walker Stapleton [6][6]
+* Bill Hammons [Official Website][3]
+* Scott Helker [Libertarian Party of Colorado][4] 
+* Jared Polis [Official Website][5]
+* Walker Stapleton [Official Website][6]
 
 [3]: https://www.billisrunning.com/
 [4]: https://www.lpcolorado.org/candidates

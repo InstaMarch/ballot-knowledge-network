@@ -6,7 +6,7 @@
 * [2018 General Election Combined Ballot](https://assets.bouldercounty.org/wp-content/uploads/2018/09/2018-General-Election-Combined-Ballot-Content.pdf)
 
 ### Federal Offices
-* [District 2 and 4 Representives to United States Congress](../colorado-midterm-issues-2018/boulder-county-federal-reps.html)
+* [District 2 and 4 Representives to United States Congress](https://instamarch.github.io/colorado-midterm-issues-2018/boulder-county-federal-reps.html)
 
 ### State Offices
 * [Governor/Lieutenant Governor](https://instamarch.github.io/colorado-midterm-issues-2018/governor-race/index.html)

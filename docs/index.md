@@ -40,6 +40,10 @@
 * [Amendment W (CONSTITUTIONAL)](https://instamarch.github.io/colorado-midterm-issues-2018/ballot-initiatives/amendment-w)
 * [Amendment X](https://instamarch.github.io/colorado-midterm-issues-2018/ballot-initiatives/amendment-x)
 * [Amendment 112 (STATUTORY)](https://instamarch.github.io/colorado-midterm-issues-2018/ballot-initiatives/proposition-112)
+
+### Judicial Retention Questions
+* [Justice Richard L. Gabriel](https://instamarch.github.io/colorado-midterm-issues-2018/judges/justice-richard-l-gabriel.html)
+
 ## Our purpose
 
 How can we make Democracy effective? How can we increase trust in Democracy?

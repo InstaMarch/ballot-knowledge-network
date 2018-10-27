@@ -24,6 +24,17 @@
 * [District Attorney - 20th Judicial District](https://instamarch.github.io/colorado-midterm-issues-2018/district-attorney-20th-judicial-district.html)
 * [Regional Transportation District Director - District O](https://instamarch.github.io/colorado-midterm-issues-2018/regional-transportation-district-director-district-O.html)
 
+### County Offices
+* [County Commissioner - District 3](https://instamarch.github.io/colorado-midterm-issues-2018/county-commissioner-district-3.html)
+* [County Clerk and Recorder](https://instamarch.github.io/colorado-midterm-issues-2018/county-clerk-and-recorder.html)
+* [County Treasurer](https://instamarch.github.io/colorado-midterm-issues-2018/county-treasurer.html)
+* [County Assessor](https://instamarch.github.io/colorado-midterm-issues-2018/county-assessor.html)
+* [County Sheriff](https://instamarch.github.io/colorado-midterm-issues-2018/boulder-county-sheriff.html)
+* [County Surveyor](https://instamarch.github.io/colorado-midterm-issues-2018/boulder-county-surveyor.html)
+* [County Surveyor](https://instamarch.github.io/colorado-midterm-issues-2018/boulder-county-surveyor.html)
+* [County Coroner](https://instamarch.github.io/colorado-midterm-issues-2018/boulder-county-surveyor.html)
+* [Town of Superior - Mayor](https://instamarch.github.io/colorado-midterm-issues-2018/town-of-superior-mayor.html)
+* [Town of Superior - Trustee](https://instamarch.github.io/colorado-midterm-issues-2018/town-of-superior-trustee.html)
 ## Our purpose
 
 How can we make Democracy effective? How can we increase trust in Democracy?

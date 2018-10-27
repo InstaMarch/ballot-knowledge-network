@@ -30,9 +30,8 @@
 * [County Treasurer](https://instamarch.github.io/colorado-midterm-issues-2018/county-treasurer.html)
 * [County Assessor](https://instamarch.github.io/colorado-midterm-issues-2018/county-assessor.html)
 * [County Sheriff](https://instamarch.github.io/colorado-midterm-issues-2018/boulder-county-sheriff.html)
-* [County Surveyor](https://instamarch.github.io/colorado-midterm-issues-2018/boulder-county-surveyor.html)
-* [County Surveyor](https://instamarch.github.io/colorado-midterm-issues-2018/boulder-county-surveyor.html)
-* [County Coroner](https://instamarch.github.io/colorado-midterm-issues-2018/boulder-county-surveyor.html)
+* [County Surveyor](https://instamarch.github.io/colorado-midterm-issues-2018/county-surveyor.html)
+* [County Coroner](https://instamarch.github.io/colorado-midterm-issues-2018/county-surveyor.html)
 * [Town of Superior - Mayor](https://instamarch.github.io/colorado-midterm-issues-2018/town-of-superior-mayor.html)
 * [Town of Superior - Trustee](https://instamarch.github.io/colorado-midterm-issues-2018/town-of-superior-trustee.html)
 ## Our purpose

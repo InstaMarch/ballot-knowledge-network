@@ -36,10 +36,10 @@
 * [Town of Superior - Trustee](https://instamarch.github.io/colorado-midterm-issues-2018/town-of-superior-trustee.html)
 
 ### State Measures
-* [Amendment V (CONSTITUTIONAL)](https://instamarch.github.io/colorado-midterm-issues-2018/amendment-v.html)
-* [Amendment W (CONSTITUTIONAL)](https://instamarch.github.io/colorado-midterm-issues-2018/amendment-w)
-* [Amendment X](https://instamarch.github.io/colorado-midterm-issues-2018/amendment-x)
-* [Amendment 112 (STATUTORY](https://instamarch.github.io/colorado-midterm-issues-2018/proposition-112)
+* [Amendment V (CONSTITUTIONAL)](https://instamarch.github.io/colorado-midterm-issues-2018/ballot-initiatives/amendment-v.html)
+* [Amendment W (CONSTITUTIONAL)](https://instamarch.github.io/colorado-midterm-issues-2018/ballot-initiatives/amendment-w)
+* [Amendment X](https://instamarch.github.io/colorado-midterm-issues-2018/ballot-initiatives/amendment-x)
+* [Amendment 112 (STATUTORY)](https://instamarch.github.io/colorado-midterm-issues-2018/ballot-initiatives/proposition-112)
 ## Our purpose
 
 How can we make Democracy effective? How can we increase trust in Democracy?

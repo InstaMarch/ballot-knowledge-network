@@ -42,7 +42,13 @@
 * [Amendment 112 (STATUTORY)](https://instamarch.github.io/colorado-midterm-issues-2018/ballot-initiatives/proposition-112)
 
 ### Judicial Retention Questions
+#### Colorado Supreme Court Justice
 * [Justice Richard L. Gabriel](https://instamarch.github.io/colorado-midterm-issues-2018/judges/justice-richard-l-gabriel.html)
+
+#### Colorado Court of Appeals Judge
+* [Judge John Daniel Dailey](https://instamarch.github.io/colorado-midterm-issues-2018/judges/judge-john-daniel-dailey.html)
+* [Judge Rebecca Rankin Freyre](https://instamarch.github.io/colorado-midterm-issues-2018/judges/judge-rebecca-rankin-freyre.html)
+* [Judge Elizabeth L. Harris](https://instamarch.github.io/colorado-midterm-issues-2018/judges/judge-elizabeth-l-harris.html)
 
 ## Our purpose
 

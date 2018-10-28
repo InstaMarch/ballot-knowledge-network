@@ -1,4 +1,4 @@
-# County Clerk and Recorder 
+# Colorado Supreme Court Justice
 
 ## Justice Richard L. Gabriel
 * [Judicial Performance Report 2018][1]

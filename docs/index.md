@@ -4,6 +4,7 @@
 
 ### General Documents
 * [2018 General Election Combined Ballot](https://assets.bouldercounty.org/wp-content/uploads/2018/09/2018-General-Election-Combined-Ballot-Content.pdf)
+* [Boulder County Polling Locations](https://www.bouldercounty.org/elections/information/voting-locations/)
 
 ### Federal Offices
 * [District 2 and 4 Representives to United States Congress](https://instamarch.github.io/colorado-midterm-issues-2018/boulder-county-federal-reps.html)

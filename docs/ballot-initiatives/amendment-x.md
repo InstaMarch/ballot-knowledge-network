@@ -17,4 +17,4 @@
 
 ## Supporting Evidence
 * [Hot Hemp: How High THC Levels Can Ruin a Legal Hemp Harvest](https://www.westword.com/marijuana/hot-hemp-how-high-thc-levels-can-ruin-a-legal-hemp-harvest-9963683)
-* [United States Department of Agriculture: Industrial Hemp (includes Federal definition](https://nifa.usda.gov/industrial-hemp)
+* [United States Department of Agriculture: Industrial Hemp (includes Federal definition)](https://nifa.usda.gov/industrial-hemp)

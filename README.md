@@ -1,4 +1,4 @@
-# Colorado Midterm Issues 2018
+# Ballot Knowledge Network
 
 ## Our work
 [The Documents in website form](https://instamarch.github.io/colorado-midterm-issues-2018/)
@@ -32,4 +32,4 @@ You can be:
 
 You can also produce non-partisan social media that helps inform other citizens.
 
-Contact us if you would like to participate.
+### Contact us if you would like to participate.

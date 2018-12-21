@@ -1,4 +1,4 @@
-# Colorado Midterm Issues 2018
+# Ballot Knowledge Network
 
 ## Table of Contents
 

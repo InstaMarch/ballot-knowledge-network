@@ -2,6 +2,43 @@
 
 ## Table of Contents
 
+### Our purpose
+
+How can we make Democracy effective? How can we increase trust in Democracy?
+How can we make a system whereby people teach each other how to become
+sufficiently informed decisionmakers? We are solving these problems. Here
+is where the work gets done.
+
+In these documents we are organising information that can help a citizens
+make an informed decision in an election.
+
+What are we working to include?
+
+* Every candidate on the ballot
+* Each candidate's position on every each issue that is of relevance to the
+electorate
+* Additional positions that the candidates are not taking on the same issues
+* Evidence and justifications for and against each position
+* Each candidate's voting record on related measures
+* Links to the sources of information
+
+### Anyone can participate
+
+You can be:
+* A researcher
+* A teacher of research
+* A teacher of teachers
+
+You can also produce non-partisan social media that helps inform other citizens.
+
+Contact us if you would like to participate.
+
+### Current Projects
+
+### Past Projects
+
+### Colorado Midterms 2018
+
 ### General Documents
 * [2018 General Election Combined Ballot](https://assets.bouldercounty.org/wp-content/uploads/2018/09/2018-General-Election-Combined-Ballot-Content.pdf)
 * [Boulder County Polling Locations](https://www.bouldercounty.org/elections/information/voting-locations/)
@@ -50,34 +87,3 @@
 * [Judge John Daniel Dailey](https://instamarch.github.io/colorado-midterm-issues-2018/judges/judge-john-daniel-dailey.html)
 * [Judge Rebecca Rankin Freyre](https://instamarch.github.io/colorado-midterm-issues-2018/judges/judge-rebecca-rankin-freyre.html)
 * [Judge Elizabeth L. Harris](https://instamarch.github.io/colorado-midterm-issues-2018/judges/judge-elizabeth-l-harris.html)
-
-## Our purpose
-
-How can we make Democracy effective? How can we increase trust in Democracy?
-How can we make a system whereby people teach each other how to become
-sufficiently informed decisionmakers? We are solving these problems. Here
-is where the work gets done.
-
-In these documents we are organising information that can help a citizens
-make an informed decision in an election.
-
-What are we working to include?
-
-* Every candidate on the ballot
-* Each candidate's position on every each issue that is of relevance to the
-electorate
-* Additional positions that the candidates are not taking on the same issues
-* Evidence and justifications for and against each position
-* Each candidate's voting record on related measures
-* Links to the sources of information
-
-## Anyone can participate
-
-You can be:
-* A researcher
-* A teacher of research
-* A teacher of teachers
-
-You can also produce non-partisan social media that helps inform other citizens.
-
-Contact us if you would like to participate.

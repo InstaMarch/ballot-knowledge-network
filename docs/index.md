@@ -66,6 +66,15 @@
 * Renewable energy
 * Water rights
 
+##### Inclusion and Descrimination
+* Prison Reform
+* Sex and Gender
+* Educational Access
+* Accessibility
+* The Workplace
+* Indigenous People's Rights
+* U.S. Territories
+
 ### Our purpose
 
 How can we make Democracy effective? How can we increase trust in Democracy?

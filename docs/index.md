@@ -2,6 +2,18 @@
 
 ## Table of Contents
 
+### Current Projects
+
+#### Today's Votes
+
+##### Chicago Mayoral Race
+
+##### The Democratic Primary
+
+##### The Republican Primary
+
+##### HR 1
+
 ### Our purpose
 
 How can we make Democracy effective? How can we increase trust in Democracy?
@@ -32,8 +44,6 @@ You can be:
 You can also produce non-partisan social media that helps inform other citizens.
 
 Contact us if you would like to participate.
-
-### Current Projects
 
 ### Past Projects
 

@@ -13,8 +13,8 @@
 ##### The Republican Primary
 
 ##### HR 1: For The People Act
-* [https://www.congress.gov/bill/115th-congress/house-bill/1](H.R.1 - An Act to provide for reconciliation pursuant to titles II and V of the concurrent resolution on the budget for fiscal year 2018 from Congress.Gov)
-* [https://www.c-span.org/video/?456804-1/lawmakers-advocates-voting-rights-campaign-finance-legislation](HR 1 For the People Act News Conference featuring John Sarbanes)
+* [H.R.1 - An Act to provide for reconciliation pursuant to titles II and V of the concurrent resolution on the budget for fiscal year 2018 from Congress.gov](https://www.congress.gov/bill/115th-congress/house-bill/1)
+* [HR 1 For the People Act News Conference featuring Rep. John Sarbanes and Rep. Katie Porter on C-Span.org](https://www.c-span.org/video/?456804-1/lawmakers-advocates-voting-rights-campaign-finance-legislation)
 
 #### Today's Issues
 

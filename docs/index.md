@@ -14,6 +14,58 @@
 
 ##### HR 1
 
+#### Today's Issues
+
+##### Income Inequality
+* Who has it?
+* How does the current distribution of wealth affect short and long term future distribution?
+* How is money lent?
+* What influence can a corporate entity have?
+* How does income inequality influence what people know?
+
+##### Election Process
+* How do we know how our elections are fair?
+* How extensively is one-person-one-vote applied?
+* How do we finance elections?
+* What influence do lobbyists have?
+* Does money influence the decisions of lawmakers?
+
+##### Health Access
+* What do people want?
+* How much does it cost us?
+* How much does it cost everywhere else?
+* What is the bankruptcy rate in different counties?
+* How can one experience what it is like in another country to go to the doctor?
+
+##### Bombing effectiveness
+* What's at stake?
+* Does bombing work?
+* What do you need to know to assess the effectiveness of specific bombing campaigns?
+* Where did these ideas originate?
+* How much does bombing cost us?
+* What is the human cost of failure?
+* WWII Bombing
+* Vietnam
+* Afghanastan
+* Iraq
+* Libya
+* Syria
+
+##### International Law
+* Treaty of Westphalia
+* UN
+* Intermediate-Range Nuclear Forces Treaty
+* Anti-Ballistic Missile Treaty
+
+##### Environment
+* Global Warming
+* [Hansen et al. 1988](https://pubs.giss.nasa.gov/abs/ha02700w.html)
+* Air, water and chemical safety
+* Nuclear power
+* Coal power
+* Renewable energy
+* Water rights
+
 ### Our purpose
 
 How can we make Democracy effective? How can we increase trust in Democracy?

@@ -68,7 +68,7 @@
 * Renewable energy
 * Water rights
 
-##### Inclusion and Descrimination
+##### Inclusion and Discrimination
 * Prison Reform
 * Sex and Gender
 * Educational Access

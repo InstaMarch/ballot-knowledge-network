@@ -7,6 +7,22 @@
 #### Today's Votes
 
 ##### Chicago Mayoral Race
+* [Dorothy Brown Campaign Website](http://dorothyformayor.com/2019/)
+* [Gery Chico Campaign Website](https://chicoformayor.com/)
+* [Bill Daley Campaign Website](https://daleyformayor.com/)
+* [Amara Enyia Campaign Website](https://amaraenyia.com/)
+* [Bob Fioretti Campaign Website](https://www.bobforchicago.com/)
+* [La Shawn Ford Campaign Website](http://www.fordforchicago.com/)
+* [Jeremiah Joyce Jr. Campaign Website](https://jerryjoyce2019.com/)
+* [John Kozlar Campaign Website](http://www.johnkozlar.com/)
+* [Lori Lightfoot Campaign Website](https://lightfootforchicago.com/)
+* [Garry McCarthy Campaign Website](http://garryformayor.com/)
+* [Susana Mendoza Campaign Website](https://susanamendoza.com/)
+* [Toni Preckwinkle Campaign Website](https://toniforchicago.com/)
+* [Neal Sales-Griffin Campaign Website](https://www.nealsalesgriffin.com/)
+* [Paul Vallas Campaign Website](https://vallasforallchicago.com/)
+* [Willie Wilson Campaign Website](https://www.williewilsonformayor.com/)
+
 
 ##### The Democratic Primary
 

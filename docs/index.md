@@ -9,10 +9,10 @@ How can we make a system whereby people teach each other how to become
 sufficiently informed decisionmakers? We are solving these problems. Here
 is where the work gets done.
 
-In these documents we are organising information that can help a citizens
+Here we are building a curriculum that can help a citizens
 make an informed decision in an election.
 
-What are we working to include?
+#### What are we working to include?
 
 * Every candidate on the ballot
 * Each candidate's position on every each issue that is of relevance to the

@@ -2,6 +2,26 @@
 
 ## Table of Contents
 
+### Our purpose
+
+How can we make Democracy effective? How can we increase trust in Democracy?
+How can we make a system whereby people teach each other how to become
+sufficiently informed decisionmakers? We are solving these problems. Here
+is where the work gets done.
+
+In these documents we are organising information that can help a citizens
+make an informed decision in an election.
+
+What are we working to include?
+
+* Every candidate on the ballot
+* Each candidate's position on every each issue that is of relevance to the
+electorate
+* Additional positions that the candidates are not taking on the same issues
+* Evidence and justifications for and against each position
+* Each candidate's voting record on related measures
+* Links to the sources of information
+
 ### Current Projects
 
 #### Today's Votes
@@ -30,7 +50,7 @@
 
 ##### HR 1: For The People Act
 * [H.R.1 - An Act to provide for reconciliation pursuant to titles II and V of the concurrent resolution on the budget for fiscal year 2018 from Congress.gov](https://www.congress.gov/bill/115th-congress/house-bill/1)
-* [HR 1 For the People Act News Conference featuring Rep. John Sarbanes, Rep. Katie Porter, Robert Weissman, Fred Wertheimer, Chris Shelton, Leah Greenberg, Neera Tanden, Hillary Shelton on C-Span.org](https://www.c-span.org/video/?456804-1/lawmakers-advocates-voting-rights-campaign-finance-legislation)
+* [HR 1 For the People Act News Conference featuring Rep. John Sarbanes, Rep. Katie Porter, Robert Weissman, Fred Wertheimer, Chris Shelton, Leah Greenberg, Neera Tanden, Hillary Shelton, Josh Horwitz, Rea Carey, Michael Keegen, Bishop Garrison, Vanita Gupta and Debbie Sease on C-Span.org](https://www.c-span.org/video/?456804-1/lawmakers-advocates-voting-rights-campaign-finance-legislation)
 
 #### Today's Issues
 
@@ -92,26 +112,6 @@
 * The Workplace
 * Indigenous People's Rights
 * U.S. Territories
-
-### Our purpose
-
-How can we make Democracy effective? How can we increase trust in Democracy?
-How can we make a system whereby people teach each other how to become
-sufficiently informed decisionmakers? We are solving these problems. Here
-is where the work gets done.
-
-In these documents we are organising information that can help a citizens
-make an informed decision in an election.
-
-What are we working to include?
-
-* Every candidate on the ballot
-* Each candidate's position on every each issue that is of relevance to the
-electorate
-* Additional positions that the candidates are not taking on the same issues
-* Evidence and justifications for and against each position
-* Each candidate's voting record on related measures
-* Links to the sources of information
 
 ### Anyone can participate
 

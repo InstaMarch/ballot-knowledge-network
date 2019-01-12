@@ -52,6 +52,8 @@ electorate
 * [H.R.1 - To expand Americans' access to the ballot box, reduce the influence of big money in politics, and strengthen ethics rules for public servants, and for other purposes.](https://www.congress.gov/bill/116th-congress/house-bill/1)
 * [HR 1 For the People Act News Conference featuring Rep. John Sarbanes, Rep. Katie Porter, Robert Weissman, Fred Wertheimer, Chris Shelton, Leah Greenberg, Neera Tanden, Hillary Shelton, Josh Horwitz, Rea Carey, Michael Keegen, Bishop Garrison, Vanita Gupta and Debbie Sease on C-Span.org](https://www.c-span.org/video/?456804-1/lawmakers-advocates-voting-rights-campaign-finance-legislation)
 
+##### Border Security
+
 #### Today's Issues
 
 ##### Income Inequality

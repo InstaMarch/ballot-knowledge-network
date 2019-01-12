@@ -26,6 +26,14 @@ electorate
 
 #### Today's Votes
 
+##### HR 1: For The People Act
+* [H.R.1 - To expand Americans' access to the ballot box, reduce the influence of big money in politics, and strengthen ethics rules for public servants, and for other purposes.](https://www.congress.gov/bill/116th-congress/house-bill/1)
+* [HR 1 For the People Act News Conference featuring Rep. John Sarbanes, Rep. Katie Porter, Robert Weissman, Fred Wertheimer, Chris Shelton, Leah Greenberg, Neera Tanden, Hillary Shelton, Josh Horwitz, Rea Carey, Michael Keegen, Bishop Garrison, Vanita Gupta and Debbie Sease on C-Span.org](https://www.c-span.org/video/?456804-1/lawmakers-advocates-voting-rights-campaign-finance-legislation)
+
+##### The Democratic Primary
+
+##### The Republican Primary
+
 ##### Chicago Mayoral Race
 * [Dorothy Brown Campaign Website](http://dorothyformayor.com/2019/)
 * [Gery Chico Campaign Website](https://chicoformayor.com/)
@@ -42,15 +50,6 @@ electorate
 * [Neal Sales-Griffin Campaign Website](https://www.nealsalesgriffin.com/)
 * [Paul Vallas Campaign Website](https://vallasforallchicago.com/)
 * [Willie Wilson Campaign Website](https://www.williewilsonformayor.com/)
-
-
-##### The Democratic Primary
-
-##### The Republican Primary
-
-##### HR 1: For The People Act
-* [H.R.1 - To expand Americans' access to the ballot box, reduce the influence of big money in politics, and strengthen ethics rules for public servants, and for other purposes.](https://www.congress.gov/bill/116th-congress/house-bill/1)
-* [HR 1 For the People Act News Conference featuring Rep. John Sarbanes, Rep. Katie Porter, Robert Weissman, Fred Wertheimer, Chris Shelton, Leah Greenberg, Neera Tanden, Hillary Shelton, Josh Horwitz, Rea Carey, Michael Keegen, Bishop Garrison, Vanita Gupta and Debbie Sease on C-Span.org](https://www.c-span.org/video/?456804-1/lawmakers-advocates-voting-rights-campaign-finance-legislation)
 
 ##### Border Security
 

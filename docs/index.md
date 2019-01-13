@@ -106,7 +106,7 @@ electorate
 * Water rights
 
 ##### Inclusion and Discrimination
-* Systematic Racism
+* Systemic Racism
 * Prison Reform
 * Sex and Gender
 * Educational Access

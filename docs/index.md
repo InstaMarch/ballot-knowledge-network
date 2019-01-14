@@ -52,6 +52,17 @@ electorate
 * [Willie Wilson Campaign Website](https://www.williewilsonformayor.com/)
 
 ##### Border Security
+* [President Trump Address on Border Security](https://www.c-span.org/video/?456761-1/president-trump-calls-border-growing-humanitarian-security-crisis)
+* [Democratic Response to President Trump's National Address on Border Security](https://www.c-span.org/video/?456774-1/speaker-pelosi-senator-schumer-deliver-democratic-response-border-security)
+* [Senator McConnell on Government Shutdown](https://www.c-span.org/video/?456790-2/senator-mcconnell-government-shutdown)
+* [President Trump Remarks at Border Security Roundtable](https://www.c-span.org/video/?456900-1/president-trump-national-emergency-shutdown-continues)
+* [Speaker Pelosi and House Committee Chairs Photo](https://www.c-span.org/video/?456902-1/speaker-pelosi-house-committee-chairs-photo)
+* [House Speaker Weekly Briefing](https://www.c-span.org/video/?456842-1/speaker-pelosi-president-problems-gop-declares-national-emergency)
+* [13 CBP Employees Arrested for Corruption this Administration from Project On Government Oversight](https://www.pogo.org/investigation/2018/04/13-cbp-employees-arrested-for-corruption-this-administration/)
+* [“Zero Tolerance” and Border Crisis Need Congressional Oversight from Project On Government Oversight](https://www.pogo.org/analysis/2018/07/zero-tolerance-and-border-crisis-need-congressional-oversight/)
+* [Death Valley: Profit and Despair Inside California's Largest Immigrant Detention Camp from Project On Government Oversight](https://www.pogo.org/investigation/2018/12/death-valley-profit-and-despair-inside-californias-largest-immigrant-detention-camp/)
+* [Locking In Profits: Top ICE Officials Leave Agency to Serve Its Top Contractor from Project On Government Oversight](https://www.pogo.org/investigation/2018/12/locking-in-profits-top-ice-officials-leave-agency-to-serve-its-top-contractor/)
+* [The Fear Factory: How Robert Mercer's hedge fund profits from Trump's hard-line immigration stance from Project On Government Oversight](https://www.pogo.org/investigation/2018/11/the-fear-factory-how-robert-mercers-hedge-fund-profits-from-trumps-hard-line-immigration-stance/)
 
 #### Today's Issues
 

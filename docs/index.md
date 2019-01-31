@@ -50,7 +50,6 @@ electorate
 * [Neal Sales-Griffin Campaign Website](https://www.nealsalesgriffin.com/)
 * [Paul Vallas Campaign Website](https://vallasforallchicago.com/)
 * [Willie Wilson Campaign Website](https://www.williewilsonformayor.com/)
-
 * ~~[Dorothy Brown Campaign Website](http://dorothyformayor.com/2019/)~~
 
 ##### Border Security

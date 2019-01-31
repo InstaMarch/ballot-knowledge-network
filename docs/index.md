@@ -36,7 +36,6 @@ electorate
 ##### The Republican Primary
 
 ##### Chicago Mayoral Race
-* [Dorothy Brown Campaign Website](http://dorothyformayor.com/2019/)
 * [Gery Chico Campaign Website](https://chicoformayor.com/)
 * [Bill Daley Campaign Website](https://daleyformayor.com/)
 * [Amara Enyia Campaign Website](https://amaraenyia.com/)
@@ -51,6 +50,8 @@ electorate
 * [Neal Sales-Griffin Campaign Website](https://www.nealsalesgriffin.com/)
 * [Paul Vallas Campaign Website](https://vallasforallchicago.com/)
 * [Willie Wilson Campaign Website](https://www.williewilsonformayor.com/)
+
+* ~~[Dorothy Brown Campaign Website](http://dorothyformayor.com/2019/)~~
 
 ##### Border Security
 * [President Trump Address on Border Security](https://www.c-span.org/video/?456761-1/president-trump-calls-border-growing-humanitarian-security-crisis)

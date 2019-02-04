@@ -36,6 +36,8 @@ electorate
 ##### The Republican Primary
 
 ##### Chicago Mayoral Race
+
+###### Candidate Websites
 * [Gery Chico Campaign Website](https://chicoformayor.com/)
 * [Bill Daley Campaign Website](https://daleyformayor.com/)
 * [Amara Enyia Campaign Website](https://amaraenyia.com/)
@@ -53,7 +55,6 @@ electorate
 * ~~[Dorothy Brown Campaign Website](http://dorothyformayor.com/2019/)~~
 
 ###### Voter Guides
-
 * [WBEZ Chicago voting guide](https://interactive.wbez.org/2019/mayoral-questionnaire/?utm_campaign=News_Newsletter_Weekly-Rundown-250ok_News_20190202&utm_medium=email&utm_source=Eloqua&mi_ecmp=News_Newsletter_Weekly-Rundown-250ok_News_20190202%20-%20Batch&mi_u=1255289)
 
 

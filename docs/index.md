@@ -52,6 +52,11 @@ electorate
 * [Willie Wilson Campaign Website](https://www.williewilsonformayor.com/)
 * ~~[Dorothy Brown Campaign Website](http://dorothyformayor.com/2019/)~~
 
+###### Voter Guides
+
+* [WBEZ Chicago voting guide](https://interactive.wbez.org/2019/mayoral-questionnaire/?utm_campaign=News_Newsletter_Weekly-Rundown-250ok_News_20190202&utm_medium=email&utm_source=Eloqua&mi_ecmp=News_Newsletter_Weekly-Rundown-250ok_News_20190202%20-%20Batch&mi_u=1255289)
+
+
 ##### Border Security
 * [President Trump Address on Border Security](https://www.c-span.org/video/?456761-1/president-trump-calls-border-growing-humanitarian-security-crisis)
 * [Democratic Response to President Trump's National Address on Border Security](https://www.c-span.org/video/?456774-1/speaker-pelosi-senator-schumer-deliver-democratic-response-border-security)

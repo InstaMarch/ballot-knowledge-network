@@ -56,9 +56,10 @@ electorate
 
 ###### Voter Guides
 * [Who are the candidates for mayor of Chicago? (Source: Chicago Tribune newspaper)](https://www.chicagotribune.com/news/politics/elections/ct-candidates-for-chicago-mayor-20190126-storygallery.html)
-* [WBEZ Chicago voting guide](https://interactive.wbez.org/2019/mayoral-questionnaire/?utm_campaign=News_Newsletter_Weekly-Rundown-250ok_News_20190202&utm_medium=email&utm_source=Eloqua&mi_ecmp=News_Newsletter_Weekly-Rundown-250ok_News_20190202%20-%20Batch&mi_u=1255289)
+* [Chicago's Mayoral Candidates Answer 20 Yes or No Questions (Source: WBEZ Newsletter](https://interactive.wbez.org/2019/mayoral-questionnaire/?utm_campaign=News_Newsletter_Weekly-Rundown-250ok_News_20190202&utm_medium=email&utm_source=Eloqua&mi_ecmp=News_Newsletter_Weekly-Rundown-250ok_News_20190202%20-%20Batch&mi_u=1255289)
 
-
+###### Current Polling 
+* [UPDATED: CHICAGO MAYORAL POWER RANKINGS 2019 (Source: Chicago Magaznie] (https://www.chicagomag.com/city-life/October-2018/Who-Will-Win-Chicago-Mayor-Race-2019/)
 
 ##### Border Security
 * [President Trump Address on Border Security](https://www.c-span.org/video/?456761-1/president-trump-calls-border-growing-humanitarian-security-crisis)

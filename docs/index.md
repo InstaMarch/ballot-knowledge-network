@@ -55,7 +55,9 @@ electorate
 * ~~[Dorothy Brown Campaign Website](http://dorothyformayor.com/2019/)~~
 
 ###### Voter Guides
+* [Who are the candidates for mayor of Chicago? (Source: Chicago Tribune newspaper)](https://www.chicagotribune.com/news/politics/elections/ct-candidates-for-chicago-mayor-20190126-storygallery.html)
 * [WBEZ Chicago voting guide](https://interactive.wbez.org/2019/mayoral-questionnaire/?utm_campaign=News_Newsletter_Weekly-Rundown-250ok_News_20190202&utm_medium=email&utm_source=Eloqua&mi_ecmp=News_Newsletter_Weekly-Rundown-250ok_News_20190202%20-%20Batch&mi_u=1255289)
+
 
 
 ##### Border Security

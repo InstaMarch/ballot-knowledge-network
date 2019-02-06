@@ -35,6 +35,10 @@ We expect volunteers to avoid sharing their personal political preferences. We e
 
 ##### The Democratic Primary
 
+##### The Green Party Primary
+
+##### The Libertarian Primary
+
 ##### The Republican Primary
 
 #### Chicago Mayoral Race

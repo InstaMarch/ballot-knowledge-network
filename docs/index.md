@@ -1,8 +1,6 @@
 # Ballot Knowledge Network
 
-## Table of Contents
-
-### Our purpose
+## Our purpose
 
 How can we make Democracy effective? How can we increase trust in Democracy?
 How can we make a system whereby people teach each other how to become
@@ -12,7 +10,7 @@ is where the work gets done.
 Here we are building a curriculum that can help a citizens
 make an informed decision in an election.
 
-#### What are we working to include?
+## What are we working to include?
 
 * Every candidate on the ballot
 * Each candidate's position on every each issue that is of relevance to the
@@ -22,22 +20,24 @@ electorate
 * Each candidate's voting record on related measures
 * Links to the sources of information
 
-### Current Projects
+## Current Projects
 
-#### Today's Votes
+### Today's Votes
 
-##### HR 1: For The People Act
+#### HR 1: For The People Act
 * [House Democratic Agenda Unveiling: House Speaker Nancy Pelosi (D-CA) and other Democratic colleagues held a news conference on H.R. 1. The bill includes a number of provisions supported by Democrats, including requiring presidential candidates to release tax returns.](https://www.c-span.org/video/?456639-1/house-democrats-reporters-legislative-agenda)
 * [H.R.1 - To expand Americans' access to the ballot box, reduce the influence of big money in politics, and strengthen ethics rules for public servants, and for other purposes.](https://www.congress.gov/bill/116th-congress/house-bill/1)
 * [HR 1 For the People Act News Conference featuring Rep. John Sarbanes, Rep. Katie Porter, Robert Weissman, Fred Wertheimer, Chris Shelton, Leah Greenberg, Neera Tanden, Hillary Shelton, Josh Horwitz, Rea Carey, Michael Keegen, Bishop Garrison, Vanita Gupta and Debbie Sease on C-Span.org](https://www.c-span.org/video/?456804-1/lawmakers-advocates-voting-rights-campaign-finance-legislation)
+
+#### The Presidential Primaries
 
 ##### The Democratic Primary
 
 ##### The Republican Primary
 
-##### Chicago Mayoral Race
+#### Chicago Mayoral Race
 
-###### Candidate Websites
+##### Candidate Websites
 * [Gery Chico Campaign Website](https://chicoformayor.com/)
 * [Bill Daley Campaign Website](https://daleyformayor.com/)
 * [Amara Enyia Campaign Website](https://amaraenyia.com/)
@@ -54,14 +54,14 @@ electorate
 * [Willie Wilson Campaign Website](https://www.williewilsonformayor.com/)
 * ~~[Dorothy Brown Campaign Website](http://dorothyformayor.com/2019/)~~
 
-###### Voter Guides
+##### Voter Guides
 * [Who are the candidates for mayor of Chicago? (Source: Chicago Tribune newspaper)](https://www.chicagotribune.com/news/politics/elections/ct-candidates-for-chicago-mayor-20190126-storygallery.html)
 * [Chicago's Mayoral Candidates Answer 20 Yes or No Questions (Source: WBEZ Newsletter)](https://interactive.wbez.org/2019/mayoral-questionnaire/?utm_campaign=News_Newsletter_Weekly-Rundown-250ok_News_20190202&utm_medium=email&utm_source=Eloqua&mi_ecmp=News_Newsletter_Weekly-Rundown-250ok_News_20190202%20-%20Batch&mi_u=1255289)
 
-###### Current Polling 
+##### Current Polling 
 * [UPDATED: CHICAGO MAYORAL POWER RANKINGS 2019 (Source: Chicago Magazine)](https://www.chicagomag.com/city-life/October-2018/Who-Will-Win-Chicago-Mayor-Race-2019/)
 
-##### Border Security
+#### Border Security
 * [President Trump Address on Border Security](https://www.c-span.org/video/?456761-1/president-trump-calls-border-growing-humanitarian-security-crisis)
 * [Democratic Response to President Trump's National Address on Border Security](https://www.c-span.org/video/?456774-1/speaker-pelosi-senator-schumer-deliver-democratic-response-border-security)
 * [Senator McConnell on Government Shutdown](https://www.c-span.org/video/?456790-2/senator-mcconnell-government-shutdown)
@@ -74,30 +74,30 @@ electorate
 * [Locking In Profits: Top ICE Officials Leave Agency to Serve Its Top Contractor from Project On Government Oversight](https://www.pogo.org/investigation/2018/12/locking-in-profits-top-ice-officials-leave-agency-to-serve-its-top-contractor/)
 * [The Fear Factory: How Robert Mercer's hedge fund profits from Trump's hard-line immigration stance from Project On Government Oversight](https://www.pogo.org/investigation/2018/11/the-fear-factory-how-robert-mercers-hedge-fund-profits-from-trumps-hard-line-immigration-stance/)
 
-#### Today's Issues
+### Today's Issues
 
-##### Income Inequality
+#### Income Inequality
 * Who has it?
 * How does the current distribution of wealth affect short and long term future distribution?
 * How is money lent?
 * What influence can a corporate entity have?
 * How does income inequality influence what people know?
 
-##### Election Process
+#### Election Process
 * How do we know how our elections are fair?
 * How extensively is one-person-one-vote applied?
 * How do we finance elections?
 * What influence do lobbyists have?
 * Does money influence the decisions of lawmakers?
 
-##### Health Access
+#### Health Access
 * What do people want?
 * How much does it cost us?
 * How much does it cost everywhere else?
 * What is the bankruptcy rate in different counties?
 * How can one experience what it is like in another country to go to the doctor?
 
-##### Bombing effectiveness
+#### Bombing effectiveness
 * What's at stake?
 * Does bombing work?
 * What do you need to know to assess the effectiveness of specific bombing campaigns?
@@ -111,13 +111,13 @@ electorate
 * Libya
 * Syria
 
-##### International Law
+#### International Law
 * Treaty of Westphalia
 * UN
 * Intermediate-Range Nuclear Forces Treaty
 * Anti-Ballistic Missile Treaty
 
-##### Environment
+#### Environment
 * Global Warming
 * [Hansen et al. 1988](https://pubs.giss.nasa.gov/abs/ha02700w.html)
 * Air, water and chemical safety
@@ -126,7 +126,7 @@ electorate
 * Renewable energy
 * Water rights
 
-##### Inclusion and Discrimination
+#### Inclusion and Discrimination
 * Systemic Racism
 * Prison Reform
 * Sex and Gender
@@ -136,7 +136,7 @@ electorate
 * Indigenous People's Rights
 * U.S. Territories
 
-### Anyone can participate
+## Anyone can participate
 
 You can be:
 * A researcher
@@ -147,18 +147,18 @@ You can also produce non-partisan social media that helps inform other citizens.
 
 Contact us if you would like to participate.
 
-### Past Projects
+## Past Projects
 
 ### Colorado Midterms 2018
 
-### General Documents
+#### General Documents
 * [2018 General Election Combined Ballot](https://assets.bouldercounty.org/wp-content/uploads/2018/09/2018-General-Election-Combined-Ballot-Content.pdf)
 * [Boulder County Polling Locations](https://www.bouldercounty.org/elections/information/voting-locations/)
 
-### Federal Offices
+#### Federal Offices
 * [District 2 and 4 Representives to United States Congress](https://instamarch.github.io/ballot-knowledge-network/boulder-county-federal-reps.html)
 
-### State Offices
+#### State Offices
 * [Governor/Lieutenant Governor](https://instamarch.github.io/ballot-knowledge-network/governor-race/index.html)
 * [Colorado Attorney General](https://instamarch.github.io/ballot-knowledge-network/attorney-general.html)
 * [Colorado State Treasurer](https://instamarch.github.io/ballot-knowledge-network/state-treasurer.html)
@@ -174,7 +174,7 @@ Contact us if you would like to participate.
 * [District Attorney - 20th Judicial District](https://instamarch.github.io/ballot-knowledge-network/district-attorney-20th-judicial-district.html)
 * [Regional Transportation District Director - District O](https://instamarch.github.io/ballot-knowledge-network/regional-transportation-district-director-district-O.html)
 
-### County Offices
+#### County Offices
 * [County Commissioner - District 3](https://instamarch.github.io/ballot-knowledge-network/county-commissioner-district-3.html)
 * [County Clerk and Recorder](https://instamarch.github.io/ballot-knowledge-network/county-clerk-and-recorder.html)
 * [County Treasurer](https://instamarch.github.io/ballot-knowledge-network/county-treasurer.html)
@@ -185,17 +185,17 @@ Contact us if you would like to participate.
 * [Town of Superior - Mayor](https://instamarch.github.io/ballot-knowledge-network/town-of-superior-mayor.html)
 * [Town of Superior - Trustee](https://instamarch.github.io/ballot-knowledge-network/town-of-superior-trustee.html)
 
-### State Measures
+#### State Measures
 * [Amendment V (CONSTITUTIONAL)](https://instamarch.github.io/ballot-knowledge-network/ballot-initiatives/amendment-v.html)
 * [Amendment W (CONSTITUTIONAL)](https://instamarch.github.io/ballot-knowledge-network/ballot-initiatives/amendment-w)
 * [Amendment X](https://instamarch.github.io/ballot-knowledge-network/ballot-initiatives/amendment-x)
 * [Amendment 112 (STATUTORY)](https://instamarch.github.io/ballot-knowledge-network/ballot-initiatives/proposition-112)
 
-### Judicial Retention Questions
-#### Colorado Supreme Court Justice
+#### Judicial Retention Questions
+##### Colorado Supreme Court Justice
 * [Justice Richard L. Gabriel](https://instamarch.github.io/ballot-knowledge-network/judges/justice-richard-l-gabriel.html)
 
-#### Colorado Court of Appeals Judge
+##### Colorado Court of Appeals Judge
 
 * [Judge John Daniel Dailey](https://instamarch.github.io/ballot-knowledge-network/judges/judge-john-daniel-dailey.html)
 * [Judge Rebecca Rankin Freyre](https://instamarch.github.io/ballot-knowledge-network/judges/judge-rebecca-rankin-freyre.html)

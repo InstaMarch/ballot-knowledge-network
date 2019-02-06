@@ -1,4 +1,5 @@
 # Ballot Knowledge Network
+Making it easy to do your own thinking for democracy
 
 ## Our purpose
 

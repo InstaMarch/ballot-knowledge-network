@@ -67,6 +67,12 @@ We expect volunteers to avoid sharing their personal political preferences. We e
 ##### Current Polling 
 * [UPDATED: CHICAGO MAYORAL POWER RANKINGS 2019 (Source: Chicago Magazine)](https://www.chicagomag.com/city-life/October-2018/Who-Will-Win-Chicago-Mayor-Race-2019/)
 
+##### Chicago Mayoral Campaign Finance Information
+* [Mayoral_election Chicago (Source: Ballotpedia.com](https://ballotpedia.org/Mayoral_election_in_Chicago,_Illinois_(2019))
+* [Mayoral race (Source: Illinoissunshine.org](https://illinoissunshine.org/mayoral-races/)
+* [Campaign disclosure (Source: www.elections.il.gov](https://www.elections.il.gov/CampaignDisclosure/ContributionsSearchByCandidates.aspx)
+* [Money tracker (Source: chicago.suntimes.com](https://chicago.suntimes.com/news/chicago-mayor-election-2019-mayoral-money-tracker-candidates-campaign-fundraising-contributions-spending/)
+
 #### Border Security
 * [President Trump Address on Border Security](https://www.c-span.org/video/?456761-1/president-trump-calls-border-growing-humanitarian-security-crisis)
 * [Democratic Response to President Trump's National Address on Border Security](https://www.c-span.org/video/?456774-1/speaker-pelosi-senator-schumer-deliver-democratic-response-border-security)

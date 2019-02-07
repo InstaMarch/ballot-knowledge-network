@@ -61,11 +61,17 @@ We expect volunteers to avoid sharing their personal political preferences. We e
 * ~~[Dorothy Brown Campaign Website](http://dorothyformayor.com/2019/)~~
 
 ##### Voter Guides
-* [Who are the candidates for mayor of Chicago? (Source: Chicago Tribune newspaper)](https://www.chicagotribune.com/news/politics/elections/ct-candidates-for-chicago-mayor-20190126-storygallery.html)
+* [Who are the Candidates for Mayor of Chicago? (Source: Chicago Tribune newspaper)](https://www.chicagotribune.com/news/politics/elections/ct-candidates-for-chicago-mayor-20190126-storygallery.html)
 * [Chicago's Mayoral Candidates Answer 20 Yes or No Questions (Source: WBEZ Newsletter)](https://interactive.wbez.org/2019/mayoral-questionnaire/?utm_campaign=News_Newsletter_Weekly-Rundown-250ok_News_20190202&utm_medium=email&utm_source=Eloqua&mi_ecmp=News_Newsletter_Weekly-Rundown-250ok_News_20190202%20-%20Batch&mi_u=1255289)
 
 ##### Current Polling 
 * [UPDATED: CHICAGO MAYORAL POWER RANKINGS 2019 (Source: Chicago Magazine)](https://www.chicagomag.com/city-life/October-2018/Who-Will-Win-Chicago-Mayor-Race-2019/)
+
+##### Chicago Mayoral Campaign Finance Information
+* [Mayoral Election Chicago (Source: Ballotpedia.org)](https://ballotpedia.org/Mayoral_election_in_Chicago,_Illinois_(2019))
+* [Mayoral Race (Source: Illinoissunshine.org)](https://illinoissunshine.org/mayoral-races/)
+* [Campaign Disclosure (Source: www.elections.il.gov)](https://www.elections.il.gov/CampaignDisclosure/ContributionsSearchByCandidates.aspx)
+* [Money Tracker (Source: chicago.suntimes.com)](https://chicago.suntimes.com/news/chicago-mayor-election-2019-mayoral-money-tracker-candidates-campaign-fundraising-contributions-spending/)
 
 #### Border Security
 * [President Trump Address on Border Security](https://www.c-span.org/video/?456761-1/president-trump-calls-border-growing-humanitarian-security-crisis)

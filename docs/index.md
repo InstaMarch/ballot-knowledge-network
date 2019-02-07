@@ -68,7 +68,7 @@ We expect volunteers to avoid sharing their personal political preferences. We e
 * [UPDATED: CHICAGO MAYORAL POWER RANKINGS 2019 (Source: Chicago Magazine)](https://www.chicagomag.com/city-life/October-2018/Who-Will-Win-Chicago-Mayor-Race-2019/)
 
 ##### Chicago Mayoral Campaign Finance Information
-* [Mayoral Election Chicago (Source: Ballotpedia.com)](https://ballotpedia.org/Mayoral_election_in_Chicago,_Illinois_(2019))
+* [Mayoral Election Chicago (Source: Ballotpedia.org)](https://ballotpedia.org/Mayoral_election_in_Chicago,_Illinois_(2019))
 * [Mayoral Race (Source: Illinoissunshine.org)](https://illinoissunshine.org/mayoral-races/)
 * [Campaign Disclosure (Source: www.elections.il.gov)](https://www.elections.il.gov/CampaignDisclosure/ContributionsSearchByCandidates.aspx)
 * [Money Tracker (Source: chicago.suntimes.com)](https://chicago.suntimes.com/news/chicago-mayor-election-2019-mayoral-money-tracker-candidates-campaign-fundraising-contributions-spending/)

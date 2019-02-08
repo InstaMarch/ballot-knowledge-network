@@ -43,6 +43,12 @@ We expect volunteers to avoid sharing their personal political preferences. We e
 
 #### Chicago Mayoral Race
 
+#### When
+* [Tuesday, February 26, 2019 is the date of the Chicago mayoral election. A run-off election may be held Tuesday, April 2, 2019 in the event that there is no clear majority of votes for the candidates.]
+
+#### Where
+* [Voter information. Source: Cook County Clerk's website](https://www.cookcountyclerk.com/service/your-voter-information)
+
 ##### Candidate Websites
 * [Gery Chico Campaign Website](https://chicoformayor.com/)
 * [Bill Daley Campaign Website](https://daleyformayor.com/)

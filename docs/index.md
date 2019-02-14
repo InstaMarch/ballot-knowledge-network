@@ -70,6 +70,9 @@ We expect volunteers to avoid sharing their personal political preferences. We e
 * [Who are the Candidates for Mayor of Chicago? (Source: Chicago Tribune newspaper)](https://www.chicagotribune.com/news/politics/elections/ct-candidates-for-chicago-mayor-20190126-storygallery.html)
 * [Chicago's Mayoral Candidates Answer 20 Yes or No Questions (Source: WBEZ Newsletter)](https://interactive.wbez.org/2019/mayoral-questionnaire/?utm_campaign=News_Newsletter_Weekly-Rundown-250ok_News_20190202&utm_medium=email&utm_source=Eloqua&mi_ecmp=News_Newsletter_Weekly-Rundown-250ok_News_20190202%20-%20Batch&mi_u=1255289)
 
+##### WBEZ Interactive Mayoral Candidate Quiz
+* [WBEZ Quiz. Please note that this has not been corroborated with candidate's platforms. (Source: WBEZ Newsletter)](http://interactive.wbez.org/2019/mayoral-questionnaire/quiz/index.html)
+
 ##### Current Polling 
 * [UPDATED: CHICAGO MAYORAL POWER RANKINGS 2019 (Source: Chicago Magazine)](https://www.chicagomag.com/city-life/October-2018/Who-Will-Win-Chicago-Mayor-Race-2019/)
 

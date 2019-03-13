@@ -31,6 +31,9 @@ We expect volunteers to avoid sharing their personal political preferences. We e
 * [H.R.1 - To expand Americans' access to the ballot box, reduce the influence of big money in politics, and strengthen ethics rules for public servants, and for other purposes.](https://www.congress.gov/bill/116th-congress/house-bill/1)
 * [HR 1 For the People Act News Conference featuring Rep. John Sarbanes, Rep. Katie Porter, Robert Weissman, Fred Wertheimer, Chris Shelton, Leah Greenberg, Neera Tanden, Hillary Shelton, Josh Horwitz, Rea Carey, Michael Keegen, Bishop Garrison, Vanita Gupta and Debbie Sease on C-Span.org](https://www.c-span.org/video/?456804-1/lawmakers-advocates-voting-rights-campaign-finance-legislation)
 * [House Democrats Introduce Anti-Corruption Bill As Symbolic 1st Act on NPR.org](https://www.npr.org/2019/01/05/682286587/house-democrats-introduce-anti-corruption-bill-as-symbolic-first-act)
+* [For the People Act of 2019 on Wikipedia](https://en.wikipedia.org/wiki/For_the_People_Act_of_2019)
+* (Cleaning the Congressional Stables by The New York Times Editorial Board)[https://www.nytimes.com/2018/12/31/opinion/editorials/democrats-reform-house.html]
+* (Democrats’ First Order of Business: Making It Easier to Vote and Harder to Buy from Mother Jones)[https://www.motherjones.com/politics/2019/01/democrats-first-order-of-business-making-it-easier-to-vote-and-harder-to-buy-elections/]
 
 #### The Presidential Primaries
 

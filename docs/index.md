@@ -40,6 +40,8 @@ We expect volunteers to avoid sharing their personal political preferences. We e
 ##### The Libertarian Primary
 
 ##### The Republican Primary
+* [Donald J. Trump](https://www.donaldjtrump.com/)
+* [Bill Weld](https://www.weld2020.org/)
 
 #### Chicago Mayoral Race
 

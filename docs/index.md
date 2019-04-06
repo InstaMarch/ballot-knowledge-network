@@ -76,6 +76,10 @@ We expect volunteers to avoid sharing their personal political preferences. We e
 * [Who are the Candidates for Mayor of Chicago? (Source: Chicago Tribune newspaper)](https://www.chicagotribune.com/news/politics/elections/ct-candidates-for-chicago-mayor-20190126-storygallery.html)
 * [Chicago's Mayoral Candidates Answer 20 Yes or No Questions (Source: WBEZ Newsletter)](https://interactive.wbez.org/2019/mayoral-questionnaire/?utm_campaign=News_Newsletter_Weekly-Rundown-250ok_News_20190202&utm_medium=email&utm_source=Eloqua&mi_ecmp=News_Newsletter_Weekly-Rundown-250ok_News_20190202%20-%20Batch&mi_u=1255289)
 
+##### Forums
+* [January 18, 2019. Chicago Mayoral Forum sponsored by the ACLU of Illinois. Source: ACLU Website @ https://www.aclu-il.org/]
+(https://www.youtube.com/watch?v=Ew-2Oth9_cU&feature=youtu.be)
+
 ##### WBEZ Interactive Mayoral Candidate Quiz
 * [WBEZ Quiz. Disclaimer: Please note that the candidate's actions have not been verified with their word. Chosen candidates may not reflect actual political correspondence. (Source: WBEZ website)](http://interactive.wbez.org/2019/mayoral-questionnaire/quiz/index.html)
 

@@ -40,6 +40,10 @@ We expect volunteers to avoid sharing their personal political preferences. We e
 ##### The Democratic Primary
 
 ##### The Green Party Primary
+* [Sedinam Kinamo Christin Moyowasifza-Curry on Facebook](https://www.facebook.com/ms.skcmcurry)
+* [Howie Hawkins on HowieHawkins.us](https://howiehawkins.us/)
+* [Dario Hunter  WKBN](https://www.wkbn.com/news/local-news/youngstown-board-of-education-member-announces-he-s-running-for-president/1792725691)
+* [Ian Schlakman FEC Form 2 from docquery.fec.gov](http://docquery.fec.gov/pdf/528/201812039133923528/201812039133923528.pdf)
 
 ##### The Libertarian Primary
 

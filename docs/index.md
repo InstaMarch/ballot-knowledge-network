@@ -38,6 +38,25 @@ We expect volunteers to avoid sharing their personal political preferences. We e
 #### The Presidential Primaries
 
 ##### The Democratic Primary
+* [Bernie Sanders](https://berniesanders.com/)
+* [Beto O’Rourke](https://betoorourke.com/)
+* [Elizabeth Warren](https://elizabethwarren.com/)
+* [Cory Booker](https://corybooker.com/)
+* [Kamala Harris](https://kamalaharris.org/)
+* [Kirsten Gillibrand](https://kirstengillibrand.com/)
+* [Julian Castro](https://www.julianforthefuture.com/)
+* [Tulsi Gabbard](https://www.votetulsi.com/)
+* [Marianne Williamson](https://www.marianne2020.com/)
+* [Andrew Yang](https://www.yang2020.com/)
+* [John Delaney](https://www.johndelaney.com)
+* [Tim Ryan](https://timryan.house.gov/)
+* [Mike Gravel](https://www.mikegravel.org/)
+* [John Hickenlooper](https://www.hickenlooper.com/)
+* [Jay Inslee](https://www.jayinslee.com/)
+* [Amy Klobuchar](https://amyklobuchar.com/)
+* [Wayne Messam](https://wayneforamerica.com/)
+* [Pete Buttigieg](https://www.peteforamerica.com/)
+* [Eric Swalwell](https://ericswalwell.com/)
 
 ##### The Green Party Primary
 * [Sedinam Kinamo Christin Moyowasifza-Curry on Facebook](https://www.facebook.com/ms.skcmcurry)

@@ -51,7 +51,7 @@ We expect volunteers to avoid sharing their personal political preferences. We e
 * [John Delaney](https://www.johndelaney.com)
 * [Tim Ryan](https://timryan.house.gov/)
 * [Mike Gravel](https://www.mikegravel.org/)
-* [John Hickenlooperl](https://www.hickenlooper.com/)
+* [John Hickenlooper](https://www.hickenlooper.com/)
 * [Jay Inslee](https://www.jayinslee.com/)
 * [Amy Klobuchar](https://amyklobuchar.com/)
 * [Wayne Messam](https://wayneforamerica.com/)

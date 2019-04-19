@@ -56,6 +56,7 @@ We expect volunteers to avoid sharing their personal political preferences. We e
 * [Amy Klobuchar](https://amyklobuchar.com/)
 * [Wayne Messam](https://wayneforamerica.com/)
 * [Pete Buttigieg](https://www.peteforamerica.com/)
+* [Eric Swalwell](https://ericswalwell.com/)
 
 ##### The Green Party Primary
 

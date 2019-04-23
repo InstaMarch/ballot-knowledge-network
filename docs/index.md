@@ -65,6 +65,10 @@ We expect volunteers to avoid sharing their personal political preferences. We e
 * [Ian Schlakman FEC Form 2 from docquery.fec.gov](http://docquery.fec.gov/pdf/528/201812039133923528/201812039133923528.pdf)
 
 ##### The Libertarian Primary
+* [Adam Kokesh](https://kokeshforpresident.com/)
+* [John McAfee](https://mcafee2020hq.com/)
+
+
 
 ##### The Republican Primary
 * [Donald J. Trump](https://www.donaldjtrump.com/)

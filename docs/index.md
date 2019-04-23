@@ -10,7 +10,7 @@ We at the Ballot Knowledge Network beg to differ! We are building a curriculum, 
 ## What are we working to include?
 
 * Complete candidate coverage accross the political spectrum including third parties.
-* Each candidate's position on every each issue that is of relevance to the
+* Each candidate's position on every issue that is of relevance to the
 electorate
 * Additional positions that the candidates are not taking on the same issues
 * Evidence and justifications for and against each position

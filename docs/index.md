@@ -1,5 +1,5 @@
 # Ballot Knowledge Network
-**_Making it easy to do your own thinking for democracy_**
+**_Training mindful facilitators of democracy and consensus_**
 
 ## Our purpose
 

@@ -41,6 +41,7 @@ We expect volunteers to avoid sharing their personal political preferences. We e
 ###### [Beto O’Rourke](https://betoorourke.com/)
 ###### [Elizabeth Warren](https://elizabethwarren.com/)
 * [Policy Proposals](https://www.ballot-knowledge-network.org/elizabeth-warren-policies.html)
+
 ###### [Cory Booker](https://corybooker.com/)
 ###### [Kamala Harris](https://kamalaharris.org/)
 ###### [Kirsten Gillibrand](https://kirstengillibrand.com/)

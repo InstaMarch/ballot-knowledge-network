@@ -51,14 +51,19 @@ We expect volunteers to avoid sharing their personal political preferences. We e
 * [John Delaney](https://www.johndelaney.com)
 * [Tim Ryan](https://timryan.house.gov/)
 * [Mike Gravel](https://www.mikegravel.org/)
-* [John Hickenlooperl](https://www.hickenlooper.com/)
+* [John Hickenlooper](https://www.hickenlooper.com/)
 * [Jay Inslee](https://www.jayinslee.com/)
 * [Amy Klobuchar](https://amyklobuchar.com/)
 * [Wayne Messam](https://wayneforamerica.com/)
 * [Pete Buttigieg](https://www.peteforamerica.com/)
 * [Eric Swalwell](https://ericswalwell.com/)
+* [Seth Moulton](https://sethmoulton.com/)
 
 ##### The Green Party Primary
+* [Sedinam Kinamo Christin Moyowasifza-Curry on Facebook](https://www.facebook.com/ms.skcmcurry)
+* [Howie Hawkins on HowieHawkins.us](https://howiehawkins.us/)
+* [Dario Hunter  WKBN](https://www.wkbn.com/news/local-news/youngstown-board-of-education-member-announces-he-s-running-for-president/1792725691)
+* [Ian Schlakman FEC Form 2 from docquery.fec.gov](http://docquery.fec.gov/pdf/528/201812039133923528/201812039133923528.pdf)
 
 ##### The Libertarian Primary
 

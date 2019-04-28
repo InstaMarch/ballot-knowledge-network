@@ -23,6 +23,6 @@ We at the Ballot Knowledge Network beg to differ! We are building a curriculum, 
 
 ## Nonpartisanship, Inclusiveness and Consent
 
-We expect volunteers to avoid sharing their personal political preferences. We expect them to avoid attempting to impose their personal positions while working together or teaching. We also expect volunteers to be respectful to everyone. We do not tolerate social power dynamics. We expect that members actively request consent rather than presume what their fellows want.
+We expect volunteers to avoid sharing their personal political preferences. We expect volunteers to avoid attempts to impose their personal political and social positions while working together or teaching. We expect volunteers to be respectful to everyone. We do not tolerate social power dynamics. We expect volunteers to actively request consent rather than presume what their fellows want.
 
 ### Contact us if you would like to participate.

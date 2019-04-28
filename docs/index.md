@@ -10,8 +10,7 @@ We at the Ballot Knowledge Network beg to differ! We are building a curriculum, 
 ## What are we working to include?
 
 * Complete candidate coverage accross the political spectrum including third parties.
-* Each candidate's position on every each issue that is of relevance to the
-electorate
+* Each candidate's position on every issue that is of relevance to the electorate
 * Additional positions that the candidates are not taking on the same issues
 * Evidence and justifications for and against each position
 * Each candidate's voting record on related measures
@@ -38,26 +37,30 @@ We expect volunteers to avoid sharing their personal political preferences. We e
 #### The Presidential Primaries
 
 ##### The Democratic Primary
-* [Joe Biden](https://joebiden.com/)
-* [Bernie Sanders](https://berniesanders.com/)
-* [Beto O’Rourke](https://betoorourke.com/)
-* [Elizabeth Warren](https://elizabethwarren.com/)
-* [Cory Booker](https://corybooker.com/)
-* [Kamala Harris](https://kamalaharris.org/)
-* [Kirsten Gillibrand](https://kirstengillibrand.com/)
-* [Julian Castro](https://www.julianforthefuture.com/)
-* [Tulsi Gabbard](https://www.votetulsi.com/)
-* [Marianne Williamson](https://www.marianne2020.com/)
-* [Andrew Yang](https://www.yang2020.com/)
-* [John Delaney](https://www.johndelaney.com)
-* [Tim Ryan](https://timryan.house.gov/)
-* [Mike Gravel](https://www.mikegravel.org/)
-* [John Hickenlooper](https://www.hickenlooper.com/)
-* [Jay Inslee](https://www.jayinslee.com/)
-* [Amy Klobuchar](https://amyklobuchar.com/)
-* [Wayne Messam](https://wayneforamerica.com/)
-* [Pete Buttigieg](https://www.peteforamerica.com/)
-* [Eric Swalwell](https://ericswalwell.com/)
+
+###### [Joe Biden](https://joebiden.com/)
+###### [Bernie Sanders](https://berniesanders.com/)
+###### [Beto O’Rourke](https://betoorourke.com/)
+###### [Elizabeth Warren](https://elizabethwarren.com/)
+* [Policy Proposals](https://www.ballot-knowledge-network.org/elizabeth-warren-policies.html)
+
+###### [Cory Booker](https://corybooker.com/)
+###### [Kamala Harris](https://kamalaharris.org/)
+###### [Kirsten Gillibrand](https://kirstengillibrand.com/)
+###### [Julian Castro](https://www.julianforthefuture.com/)
+###### [Tulsi Gabbard](https://www.votetulsi.com/)
+###### [Marianne Williamson](https://www.marianne2020.com/)
+###### [Andrew Yang](https://www.yang2020.com/)
+###### [John Delaney](https://www.johndelaney.com)
+###### [Tim Ryan](https://timryan.house.gov/)
+###### [Mike Gravel](https://www.mikegravel.org/)
+###### [John Hickenlooper](https://www.hickenlooper.com/)
+###### [Jay Inslee](https://www.jayinslee.com/)
+###### [Amy Klobuchar](https://amyklobuchar.com/)
+###### [Wayne Messam](https://wayneforamerica.com/)
+###### [Pete Buttigieg](https://www.peteforamerica.com/)
+###### [Eric Swalwell](https://ericswalwell.com/)
+###### [Seth Moulton](https://sethmoulton.com/)
 
 ##### The Green Party Primary
 * [Sedinam Kinamo Christin Moyowasifza-Curry on Facebook](https://www.facebook.com/ms.skcmcurry)
@@ -66,6 +69,11 @@ We expect volunteers to avoid sharing their personal political preferences. We e
 * [Ian Schlakman FEC Form 2 from docquery.fec.gov](http://docquery.fec.gov/pdf/528/201812039133923528/201812039133923528.pdf)
 
 ##### The Libertarian Primary
+* [Adam Kokesh](https://kokeshforpresident.com/)
+* [John McAfee](https://mcafee2020hq.com/)
+* [Arvin Vohra](http://www.votevohra.com/)
+
+
 
 ##### The Republican Primary
 * [Donald J. Trump](https://www.donaldjtrump.com/)

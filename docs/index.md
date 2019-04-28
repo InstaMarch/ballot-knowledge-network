@@ -37,6 +37,8 @@ We expect volunteers to avoid sharing their personal political preferences. We e
 #### The Presidential Primaries
 
 ##### The Democratic Primary
+
+###### [Joe Biden](https://joebiden.com/)
 ###### [Bernie Sanders](https://berniesanders.com/)
 ###### [Beto O’Rourke](https://betoorourke.com/)
 ###### [Elizabeth Warren](https://elizabethwarren.com/)
@@ -59,7 +61,6 @@ We expect volunteers to avoid sharing their personal political preferences. We e
 ###### [Pete Buttigieg](https://www.peteforamerica.com/)
 ###### [Eric Swalwell](https://ericswalwell.com/)
 ###### [Seth Moulton](https://sethmoulton.com/)
-
 
 ##### The Green Party Primary
 * [Sedinam Kinamo Christin Moyowasifza-Curry on Facebook](https://www.facebook.com/ms.skcmcurry)

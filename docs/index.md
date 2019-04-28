@@ -38,6 +38,7 @@ We expect volunteers to avoid sharing their personal political preferences. We e
 #### The Presidential Primaries
 
 ##### The Democratic Primary
+* [Joe Biden](https://joebiden.com/)
 * [Bernie Sanders](https://berniesanders.com/)
 * [Beto O’Rourke](https://betoorourke.com/)
 * [Elizabeth Warren](https://elizabethwarren.com/)

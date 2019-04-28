@@ -67,6 +67,7 @@ We expect volunteers to avoid sharing their personal political preferences. We e
 ##### The Libertarian Primary
 * [Adam Kokesh](https://kokeshforpresident.com/)
 * [John McAfee](https://mcafee2020hq.com/)
+* [Arvin Vohra](http://www.votevohra.com/)
 
 
 

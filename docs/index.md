@@ -1,5 +1,5 @@
 # Ballot Knowledge Network
-**_Training mindful facilitators of democracy and consensus_**
+**_Facilitating informed decision making for Democracy_**
 
 ## Our purpose
 
@@ -21,18 +21,20 @@ We at the Ballot Knowledge Network beg to differ! We are building a curriculum, 
 ## Nonpartisanship, Inclusiveness and Consent
 We expect volunteers to avoid sharing their personal political preferences. We expect them to avoid attempting to impose their personal positions while working together or teaching. We also expect volunteers to be respectful to everyone. We do not tolerate social power dynamics. We expect that members actively request consent rather than presume what their fellows want.
 
+## Anyone can participate
+
+You can be:
+* A researcher
+* A facilitator of research
+* A facilitator of facilitator training
+
+You can also produce non-partisan social media that helps inform other citizens.
+
+Contact us if you would like to participate.
+
 ## Current Projects
 
 ### Today's Votes
-
-#### HR 1: For The People Act
-* [House Democratic Agenda Unveiling: House Speaker Nancy Pelosi (D-CA) and other Democratic colleagues held a news conference on H.R. 1. The bill includes a number of provisions supported by Democrats, including requiring presidential candidates to release tax returns.](https://www.c-span.org/video/?456639-1/house-democrats-reporters-legislative-agenda)
-* [H.R.1 - To expand Americans' access to the ballot box, reduce the influence of big money in politics, and strengthen ethics rules for public servants, and for other purposes.](https://www.congress.gov/bill/116th-congress/house-bill/1)
-* [HR 1 For the People Act News Conference featuring Rep. John Sarbanes, Rep. Katie Porter, Robert Weissman, Fred Wertheimer, Chris Shelton, Leah Greenberg, Neera Tanden, Hillary Shelton, Josh Horwitz, Rea Carey, Michael Keegen, Bishop Garrison, Vanita Gupta and Debbie Sease on C-Span.org](https://www.c-span.org/video/?456804-1/lawmakers-advocates-voting-rights-campaign-finance-legislation)
-* [House Democrats Introduce Anti-Corruption Bill As Symbolic 1st Act on NPR.org](https://www.npr.org/2019/01/05/682286587/house-democrats-introduce-anti-corruption-bill-as-symbolic-first-act)
-* [For the People Act of 2019 on Wikipedia](https://en.wikipedia.org/wiki/For_the_People_Act_of_2019)
-* (Cleaning the Congressional Stables by The New York Times Editorial Board)[https://www.nytimes.com/2018/12/31/opinion/editorials/democrats-reform-house.html]
-* (Democrats’ First Order of Business: Making It Easier to Vote and Harder to Buy from Mother Jones)[https://www.motherjones.com/politics/2019/01/democrats-first-order-of-business-making-it-easier-to-vote-and-harder-to-buy-elections/]
 
 #### The Presidential Primaries
 
@@ -63,66 +65,19 @@ We expect volunteers to avoid sharing their personal political preferences. We e
 ###### [Seth Moulton](https://sethmoulton.com/)
 
 ##### The Green Party Primary
-* [Sedinam Kinamo Christin Moyowasifza-Curry on Facebook](https://www.facebook.com/ms.skcmcurry)
-* [Howie Hawkins on HowieHawkins.us](https://howiehawkins.us/)
-* [Dario Hunter  WKBN](https://www.wkbn.com/news/local-news/youngstown-board-of-education-member-announces-he-s-running-for-president/1792725691)
-* [Ian Schlakman FEC Form 2 from docquery.fec.gov](http://docquery.fec.gov/pdf/528/201812039133923528/201812039133923528.pdf)
+###### [Sedinam Kinamo Christin Moyowasifza-Curry on Facebook](https://www.facebook.com/ms.skcmcurry)
+###### [Howie Hawkins on HowieHawkins.us](https://howiehawkins.us/)
+###### [Dario Hunter  WKBN](https://www.wkbn.com/news/local-news/youngstown-board-of-education-member-announces-he-s-running-for-president/1792725691)
+###### [Ian Schlakman FEC Form 2 from docquery.fec.gov](http://docquery.fec.gov/pdf/528/201812039133923528/201812039133923528.pdf)
 
 ##### The Libertarian Primary
-* [Adam Kokesh](https://kokeshforpresident.com/)
-* [John McAfee](https://mcafee2020hq.com/)
-* [Arvin Vohra](http://www.votevohra.com/)
-
-
+###### [Adam Kokesh](https://kokeshforpresident.com/)
+###### [John McAfee](https://mcafee2020hq.com/)
+###### [Arvin Vohra](http://www.votevohra.com/)
 
 ##### The Republican Primary
-* [Donald J. Trump](https://www.donaldjtrump.com/)
-* [Bill Weld](https://www.weld2020.org/)
-
-#### Chicago Mayoral Race
-
-##### When
-* [Tuesday, February 26, 2019 is the date of the Chicago mayoral election. A run-off election may be held Tuesday, April 2, 2019 in the event that there is no clear majority of votes for the candidates. Source: Chicago Board of Election Commissioners](https://chicagoelections.com/en/key-dates-and-fast-facts.html)
-
-##### Where
-* [Voter information. Source: Cook County Clerk's website](https://www.cookcountyclerk.com/service/your-voter-information)
-
-##### Candidate Websites
-* [Gery Chico Campaign Website](https://chicoformayor.com/)
-* [Bill Daley Campaign Website](https://daleyformayor.com/)
-* [Amara Enyia Campaign Website](https://amaraenyia.com/)
-* [Bob Fioretti Campaign Website](https://www.bobforchicago.com/)
-* [La Shawn Ford Campaign Website](http://www.fordforchicago.com/)
-* [Jeremiah Joyce Jr. Campaign Website](https://jerryjoyce2019.com/)
-* [John Kozlar Campaign Website](http://www.johnkozlar.com/)
-* [Lori Lightfoot Campaign Website](https://lightfootforchicago.com/)
-* [Garry McCarthy Campaign Website](http://garryformayor.com/)
-* [Susana Mendoza Campaign Website](https://susanamendoza.com/)
-* [Toni Preckwinkle Campaign Website](https://toniforchicago.com/)
-* [Neal Sales-Griffin Campaign Website](https://www.nealsalesgriffin.com/)
-* [Paul Vallas Campaign Website](https://vallasforallchicago.com/)
-* [Willie Wilson Campaign Website](https://www.williewilsonformayor.com/)
-* ~~[Dorothy Brown Campaign Website](http://dorothyformayor.com/2019/)~~
-
-##### Voter Guides
-* [Who are the Candidates for Mayor of Chicago? (Source: Chicago Tribune newspaper)](https://www.chicagotribune.com/news/politics/elections/ct-candidates-for-chicago-mayor-20190126-storygallery.html)
-* [Chicago's Mayoral Candidates Answer 20 Yes or No Questions (Source: WBEZ Newsletter)](https://interactive.wbez.org/2019/mayoral-questionnaire/?utm_campaign=News_Newsletter_Weekly-Rundown-250ok_News_20190202&utm_medium=email&utm_source=Eloqua&mi_ecmp=News_Newsletter_Weekly-Rundown-250ok_News_20190202%20-%20Batch&mi_u=1255289)
-
-##### Forums
-* [January 18, 2019. Chicago Mayoral Forum sponsored by the ACLU of Illinois. Source: ACLU Website @ https://www.aclu-il.org/]
-(https://www.youtube.com/watch?v=Ew-2Oth9_cU&feature=youtu.be)
-
-##### WBEZ Interactive Mayoral Candidate Quiz
-* [WBEZ Quiz. Disclaimer: Please note that the candidate's actions have not been verified with their word. Chosen candidates may not reflect actual political correspondence. (Source: WBEZ website)](http://interactive.wbez.org/2019/mayoral-questionnaire/quiz/index.html)
-
-##### Current Polling 
-* [UPDATED: CHICAGO MAYORAL POWER RANKINGS 2019 (Source: Chicago Magazine)](https://www.chicagomag.com/city-life/October-2018/Who-Will-Win-Chicago-Mayor-Race-2019/)
-
-##### Chicago Mayoral Campaign Finance Information
-* [Mayoral Election Chicago (Source: Ballotpedia.org)](https://ballotpedia.org/Mayoral_election_in_Chicago,_Illinois_(2019))
-* [Mayoral Race (Source: Illinoissunshine.org)](https://illinoissunshine.org/mayoral-races/)
-* [Campaign Disclosure (Source: www.elections.il.gov)](https://www.elections.il.gov/CampaignDisclosure/ContributionsSearchByCandidates.aspx)
-* [Money Tracker (Source: chicago.suntimes.com)](https://chicago.suntimes.com/news/chicago-mayor-election-2019-mayoral-money-tracker-candidates-campaign-fundraising-contributions-spending/)
+###### [Donald J. Trump](https://www.donaldjtrump.com/)
+###### [Bill Weld](https://www.weld2020.org/)
 
 #### Border Security
 Please note that these links represent a portion of the debate and may not represent the whole yet:
@@ -140,7 +95,16 @@ Please note that these links represent a portion of the debate and may not repre
 * [Ted Cruz on funding the boarder wall](https://www.youtube.com/watch?v=IaesZc1lk1k&feature=youtu.be&t=2s)
 * [About the Center for Immigration Studies](https://cis.org/About-Center-Immigration-Studies)
 
-### Today's Issues
+#### HR 1: For The People Act
+* [House Democratic Agenda Unveiling: House Speaker Nancy Pelosi (D-CA) and other Democratic colleagues held a news conference on H.R. 1. The bill includes a number of provisions supported by Democrats, including requiring presidential candidates to release tax returns.](https://www.c-span.org/video/?456639-1/house-democrats-reporters-legislative-agenda)
+* [H.R.1 - To expand Americans' access to the ballot box, reduce the influence of big money in politics, and strengthen ethics rules for public servants, and for other purposes.](https://www.congress.gov/bill/116th-congress/house-bill/1)
+* [HR 1 For the People Act News Conference featuring Rep. John Sarbanes, Rep. Katie Porter, Robert Weissman, Fred Wertheimer, Chris Shelton, Leah Greenberg, Neera Tanden, Hillary Shelton, Josh Horwitz, Rea Carey, Michael Keegen, Bishop Garrison, Vanita Gupta and Debbie Sease on C-Span.org](https://www.c-span.org/video/?456804-1/lawmakers-advocates-voting-rights-campaign-finance-legislation)
+* [House Democrats Introduce Anti-Corruption Bill As Symbolic 1st Act on NPR.org](https://www.npr.org/2019/01/05/682286587/house-democrats-introduce-anti-corruption-bill-as-symbolic-first-act)
+* [For the People Act of 2019 on Wikipedia](https://en.wikipedia.org/wiki/For_the_People_Act_of_2019)
+* [Cleaning the Congressional Stables by The New York Times Editorial Board](https://www.nytimes.com/2018/12/31/opinion/editorials/democrats-reform-house.html)
+* [Democrats’ First Order of Business: Making It Easier to Vote and Harder to Buy from Mother Jones](https://www.motherjones.com/politics/2019/01/democrats-first-order-of-business-making-it-easier-to-vote-and-harder-to-buy-elections/)
+
+## Future Topics
 
 #### Income Inequality
 * Who has it?
@@ -202,17 +166,6 @@ Please note that these links represent a portion of the debate and may not repre
 * Indigenous People's Rights
 * U.S. Territories
 
-## Anyone can participate
-
-You can be:
-* A researcher
-* A teacher of research
-* A teacher of teachers
-
-You can also produce non-partisan social media that helps inform other citizens.
-
-Contact us if you would like to participate.
-
 ## Past Projects
 
 ### Colorado Midterms 2018
@@ -267,3 +220,46 @@ Contact us if you would like to participate.
 * [Judge Rebecca Rankin Freyre](https://instamarch.github.io/ballot-knowledge-network/judges/judge-rebecca-rankin-freyre.html)
 * [Judge Elizabeth L. Harris](https://instamarch.github.io/ballot-knowledge-network/judges/judge-elizabeth-l-harris.html)
 
+## Chicago Mayoral Race
+
+### When
+* [Tuesday, February 26, 2019 is the date of the Chicago mayoral election. A run-off election may be held Tuesday, April 2, 2019 in the event that there is no clear majority of votes for the candidates. Source: Chicago Board of Election Commissioners](https://chicagoelections.com/en/key-dates-and-fast-facts.html)
+
+### Where
+* [Voter information. Source: Cook County Clerk's website](https://www.cookcountyclerk.com/service/your-voter-information)
+
+### Candidate Websites
+* [Gery Chico Campaign Website](https://chicoformayor.com/)
+* [Bill Daley Campaign Website](https://daleyformayor.com/)
+* [Amara Enyia Campaign Website](https://amaraenyia.com/)
+* [Bob Fioretti Campaign Website](https://www.bobforchicago.com/)
+* [La Shawn Ford Campaign Website](http://www.fordforchicago.com/)
+* [Jeremiah Joyce Jr. Campaign Website](https://jerryjoyce2019.com/)
+* [John Kozlar Campaign Website](http://www.johnkozlar.com/)
+* [Lori Lightfoot Campaign Website](https://lightfootforchicago.com/)
+* [Garry McCarthy Campaign Website](http://garryformayor.com/)
+* [Susana Mendoza Campaign Website](https://susanamendoza.com/)
+* [Toni Preckwinkle Campaign Website](https://toniforchicago.com/)
+* [Neal Sales-Griffin Campaign Website](https://www.nealsalesgriffin.com/)
+* [Paul Vallas Campaign Website](https://vallasforallchicago.com/)
+* [Willie Wilson Campaign Website](https://www.williewilsonformayor.com/)
+* ~~[Dorothy Brown Campaign Website](http://dorothyformayor.com/2019/)~~
+
+### Voter Guides
+* [Who are the Candidates for Mayor of Chicago? (Source: Chicago Tribune newspaper)](https://www.chicagotribune.com/news/politics/elections/ct-candidates-for-chicago-mayor-20190126-storygallery.html)
+* [Chicago's Mayoral Candidates Answer 20 Yes or No Questions (Source: WBEZ Newsletter)](https://interactive.wbez.org/2019/mayoral-questionnaire/?utm_campaign=News_Newsletter_Weekly-Rundown-250ok_News_20190202&utm_medium=email&utm_source=Eloqua&mi_ecmp=News_Newsletter_Weekly-Rundown-250ok_News_20190202%20-%20Batch&mi_u=1255289)
+
+### Forums
+* [January 18, 2019. Chicago Mayoral Forum sponsored by the ACLU of Illinois. Source: ACLU Website @ https://www.aclu-il.org/](https://www.youtube.com/watch?v=Ew-2Oth9_cU&feature=youtu.be)
+
+### WBEZ Interactive Mayoral Candidate Quiz
+* [WBEZ Quiz. Disclaimer: Please note that the candidate's actions have not been verified with their word. Chosen candidates may not reflect actual political correspondence. (Source: WBEZ website)](http://interactive.wbez.org/2019/mayoral-questionnaire/quiz/index.html)
+
+### Current Polling 
+* [UPDATED: CHICAGO MAYORAL POWER RANKINGS 2019 (Source: Chicago Magazine)](https://www.chicagomag.com/city-life/October-2018/Who-Will-Win-Chicago-Mayor-Race-2019/)
+
+### Chicago Mayoral Campaign Finance Information
+* [Mayoral Election Chicago (Source: Ballotpedia.org)](https://ballotpedia.org/Mayoral_election_in_Chicago,_Illinois_(2019))
+* [Mayoral Race (Source: Illinoissunshine.org)](https://illinoissunshine.org/mayoral-races/)
+* [Campaign Disclosure (Source: www.elections.il.gov)](https://www.elections.il.gov/CampaignDisclosure/ContributionsSearchByCandidates.aspx)
+* [Money Tracker (Source: chicago.suntimes.com)](https://chicago.suntimes.com/news/chicago-mayor-election-2019-mayoral-money-tracker-candidates-campaign-fundraising-contributions-spending/)

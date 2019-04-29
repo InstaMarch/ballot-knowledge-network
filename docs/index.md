@@ -25,7 +25,7 @@ We expect volunteers to avoid sharing their personal political preferences. We e
 
 You can be:
 * A researcher
-* A facililtor of research
+* A facilitator of research
 * A facilitator of facilitator training
 
 You can also produce non-partisan social media that helps inform other citizens.
@@ -65,19 +65,19 @@ Contact us if you would like to participate.
 ###### [Seth Moulton](https://sethmoulton.com/)
 
 ##### The Green Party Primary
-* [Sedinam Kinamo Christin Moyowasifza-Curry on Facebook](https://www.facebook.com/ms.skcmcurry)
-* [Howie Hawkins on HowieHawkins.us](https://howiehawkins.us/)
-* [Dario Hunter  WKBN](https://www.wkbn.com/news/local-news/youngstown-board-of-education-member-announces-he-s-running-for-president/1792725691)
-* [Ian Schlakman FEC Form 2 from docquery.fec.gov](http://docquery.fec.gov/pdf/528/201812039133923528/201812039133923528.pdf)
+###### [Sedinam Kinamo Christin Moyowasifza-Curry on Facebook](https://www.facebook.com/ms.skcmcurry)
+###### [Howie Hawkins on HowieHawkins.us](https://howiehawkins.us/)
+###### [Dario Hunter  WKBN](https://www.wkbn.com/news/local-news/youngstown-board-of-education-member-announces-he-s-running-for-president/1792725691)
+###### [Ian Schlakman FEC Form 2 from docquery.fec.gov](http://docquery.fec.gov/pdf/528/201812039133923528/201812039133923528.pdf)
 
 ##### The Libertarian Primary
-* [Adam Kokesh](https://kokeshforpresident.com/)
-* [John McAfee](https://mcafee2020hq.com/)
-* [Arvin Vohra](http://www.votevohra.com/)
+###### [Adam Kokesh](https://kokeshforpresident.com/)
+###### [John McAfee](https://mcafee2020hq.com/)
+###### [Arvin Vohra](http://www.votevohra.com/)
 
 ##### The Republican Primary
-* [Donald J. Trump](https://www.donaldjtrump.com/)
-* [Bill Weld](https://www.weld2020.org/)
+###### [Donald J. Trump](https://www.donaldjtrump.com/)
+###### [Bill Weld](https://www.weld2020.org/)
 
 #### Border Security
 Please note that these links represent a portion of the debate and may not represent the whole yet:

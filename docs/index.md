@@ -41,6 +41,8 @@ Contact us if you would like to participate.
 ##### The Democratic Primary
 
 ###### [Joe Biden](https://joebiden.com/)
+* [Policy Proposals](https://www.ballot-knowledge-network.org/president-primaries-2020/joe-biden-policies.html)
+
 ###### [Bernie Sanders](https://berniesanders.com/)
 * [Policy Proposals](https://www.ballot-knowledge-network.org/bernie-sanders-policies.html)
 

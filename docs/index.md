@@ -41,6 +41,8 @@ Contact us if you would like to participate.
 ##### The Democratic Primary
 
 ###### [Joe Biden](https://joebiden.com/)
+* [Policy Proposals](https://www.ballot-knowledge-network.org/joe-biden-policies.html)
+
 ###### [Bernie Sanders](https://berniesanders.com/)
 ###### [Beto O’Rourke](https://betoorourke.com/)
 ###### [Elizabeth Warren](https://elizabethwarren.com/)

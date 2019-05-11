@@ -44,6 +44,8 @@ Contact us if you would like to participate.
 * [Policy Proposals](https://www.ballot-knowledge-network.org/joe-biden-policies.html)
 
 ###### [Bernie Sanders](https://berniesanders.com/)
+* [Policy Proposals](https://www.ballot-knowledge-network.org/bernie-sanders-policies.html)
+
 ###### [Beto O’Rourke](https://betoorourke.com/)
 ###### [Elizabeth Warren](https://elizabethwarren.com/)
 * [Policy Proposals](https://www.ballot-knowledge-network.org/elizabeth-warren-policies.html)

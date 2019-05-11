@@ -6,7 +6,7 @@
 * Substantially lower student debt.
 * Significantly lower interest rates on student loans.
 
-Soure: [Bernie Sanders Official Website](https://berniesanders.com/issues/college-for-all/)
+Source: [Bernie Sanders Official Website](https://berniesanders.com/issues/college-for-all/)
 
 ## Tax Policy 
 * Pass the For the 99.8 Percent Act to establish a progressive estate tax on multi-millionaire and billionaire inheritances.
@@ -17,7 +17,7 @@ Soure: [Bernie Sanders Official Website](https://berniesanders.com/issues/colleg
 * Substantially increase the top marginal tax rate on income above $10 million.
 * Close tax loopholes that benefit the wealthy and large corporations.
 
-Soure: [Bernie Sanders Official Website](https://berniesanders.com/issues/demand-that-the-wealthy-large-corporations-and-wall-street-pay-their-fair-share-in-taxes/)
+Source: [Bernie Sanders Official Website](https://berniesanders.com/issues/demand-that-the-wealthy-large-corporations-and-wall-street-pay-their-fair-share-in-taxes/)
 
 ## Healthcare 
 * Join every other major country on Earth and guaranteeing health care to all people as a right, not a privilege, through a Medicare-for-all, single-payer program.
@@ -27,4 +27,4 @@ Soure: [Bernie Sanders Official Website](https://berniesanders.com/issues/demand
     * Allow patients, pharmacists, and wholesalers to buy low-cost prescription drugs from Canada and other industrialized countries with the Affordable and Safe Prescription Drug Importation Act.
     * Cut prescription drug prices in half, with the Prescription Drug Price Relief Act, by pegging prices to the median drug price in five major countries: Canada, the United Kingdom, France, Germany, and Japan.
 
-Soure: [Bernie Sanders Official Website](https://berniesanders.com/issues/health-care-for-all/)
+Source: [Bernie Sanders Official Website](https://berniesanders.com/issues/health-care-for-all/)

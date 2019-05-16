@@ -1,7 +1,7 @@
 # General Campaign Statements from Campaign Website
 
 ## Healthcare
-* "...Has advocated to expand access to health care like Medicare for All."
+* "...has advocated to expand access to health care like Medicare for All."
 
 [Cory Booker Capaign Website Policy Statements](https://corybooker.com/meet-cory/)
 

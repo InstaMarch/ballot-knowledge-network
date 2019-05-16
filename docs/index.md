@@ -67,6 +67,7 @@ Contact us if you would like to participate.
 ###### [Pete Buttigieg](https://www.peteforamerica.com/)
 ###### [Eric Swalwell](https://ericswalwell.com/)
 ###### [Seth Moulton](https://sethmoulton.com/)
+###### [Michael Bennet](https://michaelbennet.com/)
 
 ##### The Green Party Primary
 ###### [Sedinam Kinamo Christin Moyowasifza-Curry on Facebook](https://www.facebook.com/ms.skcmcurry)

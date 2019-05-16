@@ -31,7 +31,7 @@
 [Marianne Williamson Economic Policies, Campaign Website](https://www.marianne2020.com/issues/the-economy)
 
 ## Healthcare
-*"Require our healthcare system to reimburse medical professionals for a broader array of lifestyle and nutrition support, focused on preventing disease and/or addressing root causes."
+* "Require our healthcare system to reimburse medical professionals for a broader array of lifestyle and nutrition support, focused on preventing disease and/or addressing root causes."
 * "Longer visits with doctors and/or their support staff to better equip patients with skills necessary to make lifestyle changes."
 * "Provide patients with more robust ongoing support from nutritionists, health coaches, therapists and mental health, exercise specialists, and other peripheral lifestyle treatment providers."
 * "Integrate world-class technology and systems for better collaboration and cost-savings among healthcare providers."

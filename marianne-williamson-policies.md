@@ -18,7 +18,7 @@
 * "Radically reduce and, in some cases, outright forgive the debt of college loans."
 * "Provide free higher education, including tuition at public colleges, community colleges and trade schools."
 
-[Marianne Williamson Economic Policies, Campaign Website](https://www.marianne2020.com/issues/education)
+[Marianne Williamson Economic Policies, Campaign Website](https://www.marianne2020.com/issues/the-economy)
 
 ## Tax
 * "Increase minimum wage to a rate that provides a living wage in its given geographical area - and set the rate to adjust for inflation from now on."
@@ -28,7 +28,7 @@
 * "Raise the estate tax (with special care given to help family businesses pay-off the estate tax bill over time so we don’t shut down small businesses)."
 * "Eliminate the carried interest and ETF tax loopholes enjoyed by Wall Street."
 
-[Marianne Williamson Economic Policies, Campaign Website](https://www.marianne2020.com/issues/education)
+[Marianne Williamson Economic Policies, Campaign Website](https://www.marianne2020.com/issues/the-economy)
 
 ## Healthcare
 *"Require our healthcare system to reimburse medical professionals for a broader array of lifestyle and nutrition support, focused on preventing disease and/or addressing root causes."

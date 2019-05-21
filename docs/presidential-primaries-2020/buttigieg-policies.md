@@ -4,9 +4,8 @@
 * Take something like Medicare and put it on the public exchanges.
 * Private insurance would not be eliminated but would look different than it is today.
 
-Source: [Fox News Chris Wallace Interview with Pete Buttigieg](https://youtu.be/y97QknIG-Eo)
+Source: [Fox News Chris Wallace Interview with Pete Buttigieg](https://youtu.be/y97QknIG-Eo) (Video from 5:17 to 6:07)
 
-Video from 5:17 until 6:07
 ## Education
 * Mayor Pete Buttigieg says he understands the student loan debt crisis on a personal level because he and his husband "live with six-figure student debt."  
 Source: [CNN Town Hall with Buttigieg](https://cnn.it/2PqBsj5) 
@@ -15,6 +14,7 @@ Source: [CNN Town Hall with Buttigieg](https://cnn.it/2PqBsj5) (Start video from
 * Would allow students to refinance student loans at lower interest rates.
 * "He pointed out, though, that college graduates earn more than some of the non-college-graduates who would be taxed more to subsidize a free college scheme. He said he found that hard to square with his 'progressive' outlook."  
 Source: [Education Next Coverage of Buttigieg at Northeastern University](https://www.educationnext.org/pete-buttigieg-talks-charter-schools-warns-free-college-less-progressive-than-it-sounds/)
+
 ## Tax Policy
 * Higher tax rate for high income earners.
 * "If we’re going to collect revenue from the middle class, then we have to be certain that it is going to be reinvested and returned to the middle class in a way that makes us and the middle class better off."  

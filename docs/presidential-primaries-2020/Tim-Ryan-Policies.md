@@ -2,11 +2,19 @@
 
 ## Healthcare
 
-* "Tim Ryan's campaign website has no specific policy regarding Healthcare as of 5/16/19."
+* Supports Medicare for All
+* Supports the Affordable Care Act
+
+[Source: PBS What Does Tim Ryan Believe](https://www.pbs.org/newshour/politics/what-does-tim-ryan-believe-where-the-candidate-stands-on-8-issues)
+
 
 ## Education
 
-* "Tim Ryan's campaign website has no specific policy regarding Tax policy as of 5/16/19." 
+* Tuition Free Community College  
+* Invest in Federal Student Aid
+* Invest in Public Higher Education
+
+[Source: PBS What Does Tim Ryan Believe](https://www.pbs.org/newshour/politics/what-does-tim-ryan-believe-where-the-candidate-stands-on-8-issues)
 
 ## Tax
 

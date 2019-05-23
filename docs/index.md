@@ -78,7 +78,8 @@ Contact us if you would like to participate.
 ###### [Sedinam Kinamo Christin Moyowasifza-Curry on Facebook](https://www.facebook.com/ms.skcmcurry)
 ###### [Howie Hawkins on HowieHawkins.us](https://howiehawkins.us/)
 ###### [Dario Hunter  WKBN](https://www.wkbn.com/news/local-news/youngstown-board-of-education-member-announces-he-s-running-for-president/1792725691)
-###### [Ian Schlakman FEC Form 2 from docquery.fec.gov](http://docquery.fec.gov/pdf/528/201812039133923528/201812039133923528.pdf)
+###### [Ian Schlakman](https://www.schlakman.com/)
+* [Policy Proposals](https://www.ballot-knowledge-network.org/presidential-primaries-2020/Ian-schlakman-policies.html)
 
 ##### The Libertarian Primary
 ###### [Adam Kokesh](https://kokeshforpresident.com/)

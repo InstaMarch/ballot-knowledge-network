@@ -1,4 +1,4 @@
-# General Campaign Statements from Campaign Website
+# Cory Booker Policy Proposals
 
 ## Healthcare
 * "...has advocated to expand access to health care like Medicare for All."

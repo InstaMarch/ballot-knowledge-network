@@ -65,7 +65,11 @@ Contact us if you would like to participate.
 ###### [Amy Klobuchar](https://amyklobuchar.com/)
 ###### [Wayne Messam](https://wayneforamerica.com/)
 ###### [Pete Buttigieg](https://www.peteforamerica.com/)
+* [Policy Proposals](https://www.ballot-knowledge-network.org/presidential-primaries-2020/buttigieg-policies.html)
+
 ###### [Eric Swalwell](https://ericswalwell.com/)
+* [Policy Proposals](https://www.ballot-knowledge-network.org/presidential-primaries-2020/Eric-Swalwell-Policies.html)
+
 ###### [Seth Moulton](https://sethmoulton.com/)
 ###### [Michael Bennet](https://michaelbennet.com/)
 ###### [Bill de Blasio](https://billdeblasio.com/)

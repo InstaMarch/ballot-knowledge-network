@@ -107,12 +107,16 @@ Contact us if you would like to participate.
 * [Policy Proposals](https://www.ballot-knowledge-network.org/presidential-primaries-2020/Michael-Bennet-Policies.html)
 
 ###### [Bill de Blasio](https://billdeblasio.com/)
-* [Policy Proposals](https://www.ballot-knowledge-network.org/presidential-primaries-2020/.html)
+
 
 
 ##### The Green Party Primary
-###### [Sedinam Kinamo Christin Moyowasifza-Curry on Facebook](https://www.facebook.com/ms.skcmcurry)
-###### [Howie Hawkins on HowieHawkins.us](https://howiehawkins.us/)
+###### [Sedinam Kinamo Christin Moyowasifza-Curry](https://www.facebook.com/ms.skcmcurry)
+* [Policy Proposals](https://www.ballot-knowledge-network.org/presidential-primaries-2020/Sedinam-Kinamo-Christin-Moyowasifza-Curry-Policies.html)
+
+###### [Howie Hawkins](https://howiehawkins.us/)
+* [Policy Proposals](https://www.ballot-knowledge-network.org/presidential-primaries-2020/howie-hawkins-policies.html)
+
 ###### [Dario Hunter](https://www.dariohunter.com/home)
 * [Policy Proposals](https://www.ballot-knowledge-network.org/presidential-primaries-2020/dario-hunter-policies.html)
 

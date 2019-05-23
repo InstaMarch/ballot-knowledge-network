@@ -16,7 +16,6 @@
 [Source: FOX News Town Hall With Dem Sen. Amy Klobuchar](https://youtu.be/eWHtmJ5RIhw) Start Video at 8:13
 
 ## Tax
-* Klobuchar directly addressed taxes during her announcemnt speech saying, "We should close those tax loopholes designed by and for the wealthy and bring down our debt and make it easier for workers to afford childcare, housing, and education."  
+* Klobuchar directly addressed taxes during her announcement speech saying, "We should close those tax loopholes designed by and for the wealthy and bring down our debt and make it easier for workers to afford childcare, housing, and education."  
 [Amy Klobuchar announces 2020 presidential bid](https://youtu.be/0Z5-jDkC4XY) Start Video at 17:00
 
-[Source: Amy Klobuchar Campaign Website](https://amyklobuchar.com/)

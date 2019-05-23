@@ -77,7 +77,9 @@ Contact us if you would like to participate.
 ##### The Green Party Primary
 ###### [Sedinam Kinamo Christin Moyowasifza-Curry on Facebook](https://www.facebook.com/ms.skcmcurry)
 ###### [Howie Hawkins on HowieHawkins.us](https://howiehawkins.us/)
-###### [Dario Hunter  WKBN](https://www.wkbn.com/news/local-news/youngstown-board-of-education-member-announces-he-s-running-for-president/1792725691)
+###### [Dario Hunter](https://www.dariohunter.com/home)
+* [Policy Proposals](https://www.ballot-knowledge-network.org/presidential-primaries-2020/dario-hunter-policies.html)
+
 ###### [Ian Schlakman](https://www.schlakman.com/)
 * [Policy Proposals](https://www.ballot-knowledge-network.org/presidential-primaries-2020/Ian-schlakman-policies.html)
 

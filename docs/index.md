@@ -40,85 +40,83 @@ Contact us if you would like to participate.
 
 ##### The Democratic Primary
 
+###### [Michael Bennet](https://michaelbennet.com/)
+* [Policy Proposals](https://www.ballot-knowledge-network.org/presidential-primaries-2020/michael-bennet.html)
+
 ###### [Joe Biden](https://joebiden.com/)
-* [Policy Proposals](https://www.ballot-knowledge-network.org/presidential-primaries-2020/joe-biden-policies.html)
-
-###### [Bernie Sanders](https://berniesanders.com/)
-* [Policy Proposals](https://www.ballot-knowledge-network.org/bernie-sanders-policies.html)
-
-###### [Beto O’Rourke](https://betoorourke.com/)
-* [Policy Proposals](https://www.ballot-knowledge-network.org/presidential-primaries-2020/beto-o'rourke-policies.html)
-
-###### [Elizabeth Warren](https://elizabethwarren.com/)
-* [Policy Proposals](https://www.ballot-knowledge-network.org/elizabeth-warren-policies.html)
+* [Policy Proposals](https://www.ballot-knowledge-network.org/presidential-primaries-2020/joe-biden.html)
 
 ###### [Cory Booker](https://corybooker.com/)
-* [Policy Proposals](https://www.ballot-knowledge-network.org/presidential-primaries-2020/cory-booker-policies.html)
-
-###### [Kamala Harris](https://kamalaharris.org/)
-* [Policy Proposals](https://www.ballot-knowledge-network.org/presidential-primaries-2020/kamala-harris-policies.html)
-
-###### [Kirsten Gillibrand](https://kirstengillibrand.com/)
-* [Policy Proposals](https://www.ballot-knowledge-network.org/presidential-primaries-2020/Kirsten-Gillibrand-Policies.html)
-
-###### [Julian Castro](https://www.julianforthefuture.com/)
-* [Policy Proposals](https://www.ballot-knowledge-network.org/presidential-primaries-2020/julian-castro-policies.html)
-
-###### [Tulsi Gabbard](https://www.votetulsi.com/)
-* [Policy Proposals](https://www.ballot-knowledge-network.org/presidential-primaries-2020/tulsi-gabbard-policies.html)
-
-###### [Marianne Williamson](https://www.marianne2020.com/)
-* [Policy Proposals](https://www.ballot-knowledge-network.org/presidential-primaries-2020/marianne-williamson-policies.html)
-
-###### [Andrew Yang](https://www.yang2020.com/)
-* [Policy Proposals](https://www.ballot-knowledge-network.org/presidential-primaries-2020/andrew-yang-policies.html)
-
-###### [John Delaney](https://www.johndelaney.com)
-* [Policy Proposals](https://www.ballot-knowledge-network.org/presidential-primaries-2020/john-delaney-policies.html)
-
-###### [Tim Ryan](https://timryan.house.gov/)
-* [Policy Proposals](https://www.ballot-knowledge-network.org/presidential-primaries-2020/Tim-Ryan-Policies.html)
-
-###### [Mike Gravel](https://www.mikegravel.org/)
-* [Policy Proposals](https://www.ballot-knowledge-network.org/presidential-primaries-2020/mike-gravel-policies.html)
-
-###### [John Hickenlooper](https://www.hickenlooper.com/)
-* [Policy Proposals](https://www.ballot-knowledge-network.org/presidential-primaries-2020/john-hickenlooper-policies.html)
-
-###### [Jay Inslee](https://www.jayinslee.com/)
-* [Policy Proposals](https://www.ballot-knowledge-network.org/presidential-primaries-2020/jay-inslee-policies.html)
-
-###### [Amy Klobuchar](https://amyklobuchar.com/)
-* [Policy Proposals](https://www.ballot-knowledge-network.org/presidential-primaries-2020/amy-klobuchar-policies.html)
-
-###### [Wayne Messam](https://wayneforamerica.com/)
-* [Policy Proposals](https://www.ballot-knowledge-network.org/presidential-primaries-2020/wayne-messam-policies.html)
+* [Policy Proposals](https://www.ballot-knowledge-network.org/presidential-primaries-2020/cory-booker.html)
 
 ###### [Pete Buttigieg](https://www.peteforamerica.com/)
-* [Policy Proposals](https://www.ballot-knowledge-network.org/presidential-primaries-2020/buttigieg-policies.html)
+* [Policy Proposals](https://www.ballot-knowledge-network.org/presidential-primaries-2020/pete-buttigieg.html)
 
-###### [Eric Swalwell](https://ericswalwell.com/)
-* [Policy Proposals](https://www.ballot-knowledge-network.org/presidential-primaries-2020/Eric-Swalwell-Policies.html)
-
-###### [Seth Moulton](https://sethmoulton.com/)
-* [Policy Proposals](https://www.ballot-knowledge-network.org/presidential-primaries-2020/Seth-Moulton-Policies.html)
-
-###### [Michael Bennet](https://michaelbennet.com/)
-* [Policy Proposals](https://www.ballot-knowledge-network.org/presidential-primaries-2020/Michael-Bennet-Policies.html)
+###### [Julian Castro](https://www.julianforthefuture.com/)
+* [Policy Proposals](https://www.ballot-knowledge-network.org/presidential-primaries-2020/julian-castro.html)
 
 ###### [Bill de Blasio](https://billdeblasio.com/)
 
+###### [John Delaney](https://www.johndelaney.com)
+* [Policy Proposals](https://www.ballot-knowledge-network.org/presidential-primaries-2020/john-delaney.html)
 
+###### [Tulsi Gabbard](https://www.votetulsi.com/)
+* [Policy Proposals](https://www.ballot-knowledge-network.org/presidential-primaries-2020/tulsi-gabbard.html)
+
+###### [Kirsten Gillibrand](https://kirstengillibrand.com/)
+* [Policy Proposals](https://www.ballot-knowledge-network.org/presidential-primaries-2020/kirsten-gillibrand.html)
+
+###### [Mike Gravel](https://www.mikegravel.org/)
+* [Policy Proposals](https://www.ballot-knowledge-network.org/presidential-primaries-2020/mike-gravel.html)
+
+###### [Kamala Harris](https://kamalaharris.org/)
+* [Policy Proposals](https://www.ballot-knowledge-network.org/presidential-primaries-2020/kamala-harris.html)
+
+###### [John Hickenlooper](https://www.hickenlooper.com/)
+* [Policy Proposals](https://www.ballot-knowledge-network.org/presidential-primaries-2020/john-hickenlooper.html)
+
+###### [Jay Inslee](https://www.jayinslee.com/)
+* [Policy Proposals](https://www.ballot-knowledge-network.org/presidential-primaries-2020/jay-inslee.html)
+
+###### [Amy Klobuchar](https://amyklobuchar.com/)
+* [Policy Proposals](https://www.ballot-knowledge-network.org/presidential-primaries-2020/amy-klobuchar.html)
+
+###### [Wayne Messam](https://wayneforamerica.com/)
+* [Policy Proposals](https://www.ballot-knowledge-network.org/presidential-primaries-2020/wayne-messam.html)
+
+###### [Seth Moulton](https://sethmoulton.com/)
+* [Policy Proposals](https://www.ballot-knowledge-network.org/presidential-primaries-2020/seth-moulton.html)
+
+###### [Beto O’Rourke](https://betoorourke.com/)
+* [Policy Proposals](https://www.ballot-knowledge-network.org/presidential-primaries-2020/beto-o'rourke.html)
+
+###### [Tim Ryan](https://timryan.house.gov/)
+* [Policy Proposals](https://www.ballot-knowledge-network.org/presidential-primaries-2020/tim-ryan.html)
+
+###### [Bernie Sanders](https://berniesanders.com/)
+* [Policy Proposals](https://www.ballot-knowledge-network.org/presidential-primaries-2020/bernie-sanders.html)
+
+###### [Eric Swalwell](https://ericswalwell.com/)
+* [Policy Proposals](https://www.ballot-knowledge-network.org/presidential-primaries-2020/eric-swalwell.html)
+
+###### [Elizabeth Warren](https://elizabethwarren.com/)
+* [Policy Proposals](https://www.ballot-knowledge-network.org/presidential-primaries-2020/elizabeth-warren.html)
+
+###### [Marianne Williamson](https://www.marianne2020.com/)
+* [Policy Proposals](https://www.ballot-knowledge-network.org/presidential-primaries-2020/marianne-williamson.html)
+
+###### [Andrew Yang](https://www.yang2020.com/)
+* [Policy Proposals](https://www.ballot-knowledge-network.org/presidential-primaries-2020/andrew-yang.html)
 
 ##### The Green Party Primary
-###### [Sedinam Kinamo Christin Moyowasifza-Curry](https://www.facebook.com/ms.skcmcurry)
-* [Policy Proposals](https://www.ballot-knowledge-network.org/presidential-primaries-2020/Sedinam-Kinamo-Christin-Moyowasifza-Curry-Policies.html)
-
 ###### [Howie Hawkins](https://howiehawkins.us/)
 * [Policy Proposals](https://www.ballot-knowledge-network.org/presidential-primaries-2020/howie-hawkins-policies.html)
 
 ###### [Dario Hunter](https://www.dariohunter.com/home)
 * [Policy Proposals](https://www.ballot-knowledge-network.org/presidential-primaries-2020/dario-hunter-policies.html)
+
+###### [Sedinam Kinamo Christin Moyowasifza-Curry](https://www.facebook.com/ms.skcmcurry)
+* [Policy Proposals](https://www.ballot-knowledge-network.org/presidential-primaries-2020/Sedinam-Kinamo-Christin-Moyowasifza-Curry-Policies.html)
 
 ###### [Ian Schlakman](https://www.schlakman.com/)
 * [Policy Proposals](https://www.ballot-knowledge-network.org/presidential-primaries-2020/Ian-schlakman-policies.html)

@@ -110,16 +110,16 @@ Contact us if you would like to participate.
 
 ##### The Green Party Primary
 ###### [Howie Hawkins](https://howiehawkins.us/)
-* [Policy Proposals](https://www.ballot-knowledge-network.org/presidential-primaries-2020/howie-hawkins-policies.html)
+* [Policy Proposals](https://www.ballot-knowledge-network.org/presidential-primaries-2020/howie-hawkins.html)
 
 ###### [Dario Hunter](https://www.dariohunter.com/home)
-* [Policy Proposals](https://www.ballot-knowledge-network.org/presidential-primaries-2020/dario-hunter-policies.html)
+* [Policy Proposals](https://www.ballot-knowledge-network.org/presidential-primaries-2020/dario-hunter.html)
 
 ###### [Sedinam Kinamo Christin Moyowasifza-Curry](https://www.facebook.com/ms.skcmcurry)
-* [Policy Proposals](https://www.ballot-knowledge-network.org/presidential-primaries-2020/Sedinam-Kinamo-Christin-Moyowasifza-Curry-Policies.html)
+* [Policy Proposals](https://www.ballot-knowledge-network.org/presidential-primaries-2020/sedinam-kinamo-christin-moyowasifza-curry.html)
 
 ###### [Ian Schlakman](https://www.schlakman.com/)
-* [Policy Proposals](https://www.ballot-knowledge-network.org/presidential-primaries-2020/Ian-schlakman-policies.html)
+* [Policy Proposals](https://www.ballot-knowledge-network.org/presidential-primaries-2020/ian-schlakman.html)
 
 ##### The Libertarian Primary
 ###### [Adam Kokesh](https://kokeshforpresident.com/)

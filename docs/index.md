@@ -48,6 +48,7 @@ Contact us if you would like to participate.
 
 ###### [Cory Booker](https://corybooker.com/)
 * [Policy Proposals](https://www.ballot-knowledge-network.org/presidential-primaries-2020/cory-booker.html)
+* [Campaign Finance](https://www.ballot-knowledge-network.org/presidential-primaries-2020/campaign-finance/cory-booker.html)
 
 ###### [Pete Buttigieg](https://www.peteforamerica.com/)
 * [Policy Proposals](https://www.ballot-knowledge-network.org/presidential-primaries-2020/pete-buttigieg.html)

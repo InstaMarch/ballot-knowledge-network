@@ -36,3 +36,6 @@
 * "In order to raise revenue while also stymying some of the rampant speculation that can lead to financial collapse, a financial transaction tax should be levied on financial trades. This has been adopted by other countries quite successfully."
 
 [Andrew Yang on Financial Transaction Tax, Campaign Website](https://www.yang2020.com/policies/financial-transaction-tax/)
+
+# Campaign Finance
+* (https://www.fec.gov/data/candidate/P00006486/)

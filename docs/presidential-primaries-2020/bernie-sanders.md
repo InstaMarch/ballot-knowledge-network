@@ -28,3 +28,6 @@ Source: [Bernie Sanders Official Website](https://berniesanders.com/issues/deman
     * Cut prescription drug prices in half, with the Prescription Drug Price Relief Act, by pegging prices to the median drug price in five major countries: Canada, the United Kingdom, France, Germany, and Japan.
 
 Source: [Bernie Sanders Official Website](https://berniesanders.com/issues/health-care-for-all/)
+
+# Campaign Finance
+* (https://www.fec.gov/data/candidate/P60007168/)

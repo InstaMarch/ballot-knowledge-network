@@ -14,3 +14,6 @@
 
 ### Tax Policy
 * O'Rourke has no clearly specified tax policy as of 5/16/19. 
+
+# Campaign Finance
+* (https://www.fec.gov/data/candidate/P00010793/)

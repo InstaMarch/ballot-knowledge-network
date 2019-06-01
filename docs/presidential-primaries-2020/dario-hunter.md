@@ -14,6 +14,3 @@
 * "Bought and paid for Republican and Democratic leaders will tell you that some banks are ‘too big to fail.’ There is no such thing. Break them up. And make corporations and rich pay their fair share. Corporations are not people - and we will no longer allow their interests to outrank the public good." 
 
 [Source: Dario Hunter Campaign Website, Issues](https://www.dariohunter.com/issues)
-
-# Campaign Finance
-* (https://www.fec.gov/data/candidate/P00010124/)

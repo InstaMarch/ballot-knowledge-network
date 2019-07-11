@@ -68,7 +68,7 @@ In order to make it difficult to know who thinks what and to give you more choic
 The most freqently rated important one is tax policy, so let's begin with tax policy. Shall we begin there?
 *Does another "thumbs up" temperature check."*
 
-### Research
+## Research
 
 If you have a smart phone or laptop you can help us research this issue.
 
@@ -76,17 +76,66 @@ There are a few questions that we need to answer in order to be able to be free 
 
 Here are some of the questions we shall address:
 
-1. What is the current president currently doing on this issue?
-2. What is the evidence offered that it is effective?
-3. What is the evidence offered that it is ineffective?
-4. What money is the current president taking from people with a stake in this issue?
-5. What is the current president planning on doing going forward?
+1. What polling is available on how people currently feel about this issue?
+2. What is the current president currently doing on this issue?
+3. What is the evidence offered that it is effective?
+4. What is the evidence offered that it is ineffective?
+5. What money is the current president taking from people with a stake in this issue?
+6. What is the current president planning on doing going forward?
 
-We shall also ask the same questions of anyone who is a candidate for president, too. 
+We shall also ask the same questions of anyone who is a candidate for president, too.
 
-## ETC
+Are there any questions anyone feels we have left out?
+
+*If anyone suggests a question, you can ask if the group finds it important and take a vote*
+
+You are welcome to participate as much or as little as you would like. Would anyone in the room like to start researching these questions using, DuckDuckGo, Google or another search engine using your smart phone or a computer? I shall also do it on the projector as we go.
+
+*If people raise there hands ask them: "what would you like to focus on?"*
+
+*The facilitator begins to Google one of the topics.*
+
+### Questions That Can Be Asked
+* What sources do we currently have?
+
+*When looking at a source:*
+* What in your own words are they trying to communicate?
+* Can you explain how this recurring element hangs together with other pieces in the big picture?
+* Do we know if this part is true? How?
+
+## Brainstorming Questions
+
+Now that we gathered information about this issue, let's start practice at asking questions.
+
+Who can we ask questions to?
+
+Some examples are:
+
+* A friend or neighbor who doesn't know where to start and requests our help
+* An activist or "expert" who we may want to understand better
+* A candidate who we want to be more specific
+
+What are some examples of questions?
+
+For Joe Biden: "You said that during the Reagan era, there were about $800 billion in tax expenditures. You also said that there is currently one trillion four hundred billion dollars in tax expenditures. In addition you said that 500 billion dollars of that money is unjustified. Why do you then propose that we only get rid of $100 billion in tax loopholes?"
+
+## Measures Of A Good Question
+* Is it honest or does it take advantage of people who are not informed?
+* Does it use known information to gather more?
+* What might the question accomplish for the person being asked the question or for the constituency they serve.
+
+## Satisfaction Survey
+
+Before we all go, I would like to ask you to briefly participate in helping us improve this. Does everyone have a sheet of paper? Again on a scale of 1 to 10 how satisfied were you with this training?
+
+*After everyone has stopped writing:*
+
+Is everyone finished? The second question is: what could we do to be a ten?
+
+*When everyone is done*
+
+Is everyone done? Would anyone like to share your response? We shall be using this to make a qualitative satisfaction survey, if you'd like to receive the survey, put your name and email address or postal address on your sheet of paper.
+
+## Closeout
  
-Everyone can participate as much or as little as you want. Does anyone know that they don't want to participate or they want to watch until you raise your hand to participate? By a show of hands does anyone already know that you want to participate? Would anyone 
-
-
-
+Thank you so much everyone for coming! If you'd like more info, visit Ballot-Knowledge-Network.org for more! Have a great day!

@@ -54,13 +54,35 @@ Are you ready for the next question?
 
 *Shows a thumbs up?*
 
+What could the president do to be a ten?
 
+*Waits till everyone looks done.*
 
 May I collect your answers now?
 
-*The facilitator collects all the answers."
+*The facilitator collects all the answers."*
 
-In order to make it difficult 
+In order to make it difficult to know who thinks what and to give you more choices, I'm going to had a few more responses from other places. You will then be free to decide how you want to focus our work. Now I'm going to go through and read each response including the additional responses. As I read each issue that that could improve satisfaction. At the end you can rank each possibility from what is most important to you and what is least important. One being the most important and the largest number being the least important.
+
+### Example Result
+The most freqently rated important one is tax policy, so let's begin with tax policy. Shall we begin there?
+*Does another "thumbs up" temperature check."*
+
+### Research
+
+If you have a smart phone or laptop you can help us research this issue.
+
+There are a few questions that we need to answer in order to be able to be free and sufficiently informed to feel we are prepared to make a decision if we had to. We at Ballot Knowledge Network are not going to help you make a decision, we are just going to help you get ready.
+
+Here are some of the questions we shall address:
+
+1. What is the current president currently doing on this issue?
+2. What is the evidence offered that it is effective?
+3. What is the evidence offered that it is ineffective?
+4. What money is the current president taking from people with a stake in this issue?
+5. What is the current president planning on doing going forward?
+
+We shall also ask the same questions of anyone who is a candidate for president, too. 
 
 ## ETC
  

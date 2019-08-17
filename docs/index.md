@@ -96,8 +96,7 @@ Contact us if you would like to participate.
 ###### [Bernie Sanders](https://berniesanders.com/)
 * [Policy Proposals](https://www.ballot-knowledge-network.org/presidential-primaries-2020/bernie-sanders.html)
 
-###### [Eric Swalwell](https://ericswalwell.com/)
-* [Policy Proposals](https://www.ballot-knowledge-network.org/presidential-primaries-2020/eric-swalwell.html)
+###### ~[Eric Swalwell]~
 
 ###### [Elizabeth Warren](https://elizabethwarren.com/)
 * [Policy Proposals](https://www.ballot-knowledge-network.org/presidential-primaries-2020/elizabeth-warren.html)

@@ -73,8 +73,7 @@ Contact us if you would like to participate.
 ###### [Kamala Harris](https://kamalaharris.org/)
 * [Policy Proposals](https://www.ballot-knowledge-network.org/presidential-primaries-2020/kamala-harris.html)
 
-###### [John Hickenlooper](https://www.hickenlooper.com/)
-* [Policy Proposals](https://www.ballot-knowledge-network.org/presidential-primaries-2020/john-hickenlooper.html)
+###### ~[John Hickenlooper]~
 
 ###### [Jay Inslee](https://www.jayinslee.com/)
 * [Policy Proposals](https://www.ballot-knowledge-network.org/presidential-primaries-2020/jay-inslee.html)

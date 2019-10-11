@@ -10,3 +10,6 @@
 
 ## Tax 
 * Cory Booker has no tax policy statements on his campaign website as of 5/16/19.
+
+## Campaign Finance
+[Cory Booker Campaign Finance FEC Link](https://www.fec.gov/data/candidate/P00009795/)

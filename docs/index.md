@@ -56,15 +56,11 @@ Contact us if you would like to participate.
 ###### [Julian Castro](https://www.julianforthefuture.com/)
 * [Policy Proposals](https://www.ballot-knowledge-network.org/presidential-primaries-2020/julian-castro.html)
 
-###### ~[Bill de Blasio]~
-
 ###### [John Delaney](https://www.johndelaney.com)
 * [Policy Proposals](https://www.ballot-knowledge-network.org/presidential-primaries-2020/john-delaney.html)
 
 ###### [Tulsi Gabbard](https://www.votetulsi.com/)
 * [Policy Proposals](https://www.ballot-knowledge-network.org/presidential-primaries-2020/tulsi-gabbard.html)
-
-###### ~[Kirsten Gillibrand]~
 
 ###### [Mike Gravel](https://www.mikegravel.org/)
 * [Policy Proposals](https://www.ballot-knowledge-network.org/presidential-primaries-2020/mike-gravel.html)
@@ -72,17 +68,11 @@ Contact us if you would like to participate.
 ###### [Kamala Harris](https://kamalaharris.org/)
 * [Policy Proposals](https://www.ballot-knowledge-network.org/presidential-primaries-2020/kamala-harris.html)
 
-###### ~[John Hickenlooper]~
-
-###### ~[Jay Inslee]~
-
 ###### [Amy Klobuchar](https://amyklobuchar.com/)
 * [Policy Proposals](https://www.ballot-knowledge-network.org/presidential-primaries-2020/amy-klobuchar.html)
 
 ###### [Wayne Messam](https://wayneforamerica.com/)
 * [Policy Proposals](https://www.ballot-knowledge-network.org/presidential-primaries-2020/wayne-messam.html)
-
-###### ~[Seth Moulton]~
 
 ###### [Beto O’Rourke](https://betoorourke.com/)
 * [Policy Proposals](https://www.ballot-knowledge-network.org/presidential-primaries-2020/beto-o'rourke.html)
@@ -93,8 +83,6 @@ Contact us if you would like to participate.
 ###### [Bernie Sanders](https://berniesanders.com/)
 * [Policy Proposals](https://www.ballot-knowledge-network.org/presidential-primaries-2020/bernie-sanders.html)
 
-###### ~[Eric Swalwell]~
-
 ###### [Elizabeth Warren](https://elizabethwarren.com/)
 * [Policy Proposals](https://www.ballot-knowledge-network.org/presidential-primaries-2020/elizabeth-warren.html)
 
@@ -103,6 +91,13 @@ Contact us if you would like to participate.
 
 ###### [Andrew Yang](https://www.yang2020.com/)
 * [Policy Proposals](https://www.ballot-knowledge-network.org/presidential-primaries-2020/andrew-yang.html)
+
+###### ~[Bill de Blasio]~
+###### ~[Seth Moulton]~
+###### ~[Jay Inslee]~
+###### ~[Kirsten Gillibrand]~
+###### ~[Eric Swalwell]~
+###### ~[John Hickenlooper]~
 
 ##### The Green Party Primary
 ###### [Howie Hawkins](https://howiehawkins.us/)
@@ -116,6 +111,7 @@ Contact us if you would like to participate.
 
 ###### [Ian Schlakman](https://www.schlakman.com/)
 * [Policy Proposals](https://www.ballot-knowledge-network.org/presidential-primaries-2020/ian-schlakman.html)
+
 
 ##### The Libertarian Primary
 ###### [Adam Kokesh](https://kokeshforpresident.com/)

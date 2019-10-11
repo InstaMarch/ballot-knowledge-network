@@ -49,6 +49,8 @@ Contact us if you would like to participate.
 ###### [Cory Booker](https://corybooker.com/)
 * [Policy Proposals](https://www.ballot-knowledge-network.org/presidential-primaries-2020/cory-booker.html)
 
+###### [Steve Bullock](https://stevebullock.com/)
+
 ###### [Pete Buttigieg](https://www.peteforamerica.com/)
 * [Policy Proposals](https://www.ballot-knowledge-network.org/presidential-primaries-2020/pete-buttigieg.html)
 
@@ -81,6 +83,11 @@ Contact us if you would like to participate.
 
 ###### [Bernie Sanders](https://berniesanders.com/)
 * [Policy Proposals](https://www.ballot-knowledge-network.org/presidential-primaries-2020/bernie-sanders.html)
+
+###### [John Sestak](https://www.joesestak.com/)
+
+###### [Tom Steyer](https://www.tomsteyer.com/)
+* [Policy Proposals]
 
 ###### [Elizabeth Warren](https://elizabethwarren.com/)
 * [Policy Proposals](https://www.ballot-knowledge-network.org/presidential-primaries-2020/elizabeth-warren.html)

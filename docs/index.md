@@ -66,7 +66,6 @@ Contact us if you would like to participate.
 
 ###### ~[Kirsten Gillibrand]~
 
-
 ###### [Mike Gravel](https://www.mikegravel.org/)
 * [Policy Proposals](https://www.ballot-knowledge-network.org/presidential-primaries-2020/mike-gravel.html)
 
@@ -77,17 +76,15 @@ Contact us if you would like to participate.
 
 ###### ~[Jay Inslee]~
 
-
 ###### [Amy Klobuchar](https://amyklobuchar.com/)
 * [Policy Proposals](https://www.ballot-knowledge-network.org/presidential-primaries-2020/amy-klobuchar.html)
 
 ###### [Wayne Messam](https://wayneforamerica.com/)
 * [Policy Proposals](https://www.ballot-knowledge-network.org/presidential-primaries-2020/wayne-messam.html)
 
-###### ~[Seth Moulton]~(https://sethmoulton.com/)
+###### ~[Seth Moulton]~
 
-
-###### [Beto O’Rourke](https://betoorourke.com/)
+###### Beto O’Rourke](https://betoorourke.com/)
 * [Policy Proposals](https://www.ballot-knowledge-network.org/presidential-primaries-2020/beto-o'rourke.html)
 
 ###### [Tim Ryan](https://timryan.house.gov/)

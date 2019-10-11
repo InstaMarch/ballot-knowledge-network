@@ -87,7 +87,6 @@ Contact us if you would like to participate.
 ###### [John Sestak](https://www.joesestak.com/)
 
 ###### [Tom Steyer](https://www.tomsteyer.com/)
-* [Policy Proposals]
 
 ###### [Elizabeth Warren](https://elizabethwarren.com/)
 * [Policy Proposals](https://www.ballot-knowledge-network.org/presidential-primaries-2020/elizabeth-warren.html)

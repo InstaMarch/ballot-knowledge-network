@@ -84,7 +84,7 @@ Contact us if you would like to participate.
 
 ###### ~[Seth Moulton]~
 
-###### Beto O’Rourke](https://betoorourke.com/)
+###### [Beto O’Rourke](https://betoorourke.com/)
 * [Policy Proposals](https://www.ballot-knowledge-network.org/presidential-primaries-2020/beto-o'rourke.html)
 
 ###### [Tim Ryan](https://timryan.house.gov/)

@@ -56,7 +56,7 @@ Contact us if you would like to participate.
 ###### [Julian Castro](https://www.julianforthefuture.com/)
 * [Policy Proposals](https://www.ballot-knowledge-network.org/presidential-primaries-2020/julian-castro.html)
 
-###### [Bill de Blasio](https://billdeblasio.com/)
+###### ~[Bill de Blasio]~
 
 ###### [John Delaney](https://www.johndelaney.com)
 * [Policy Proposals](https://www.ballot-knowledge-network.org/presidential-primaries-2020/john-delaney.html)
@@ -64,8 +64,8 @@ Contact us if you would like to participate.
 ###### [Tulsi Gabbard](https://www.votetulsi.com/)
 * [Policy Proposals](https://www.ballot-knowledge-network.org/presidential-primaries-2020/tulsi-gabbard.html)
 
-###### [Kirsten Gillibrand](https://kirstengillibrand.com/)
-* [Policy Proposals](https://www.ballot-knowledge-network.org/presidential-primaries-2020/kirsten-gillibrand.html)
+###### ~[Kirsten Gillibrand]~
+
 
 ###### [Mike Gravel](https://www.mikegravel.org/)
 * [Policy Proposals](https://www.ballot-knowledge-network.org/presidential-primaries-2020/mike-gravel.html)
@@ -75,8 +75,8 @@ Contact us if you would like to participate.
 
 ###### ~[John Hickenlooper]~
 
-###### [Jay Inslee](https://www.jayinslee.com/)
-* [Policy Proposals](https://www.ballot-knowledge-network.org/presidential-primaries-2020/jay-inslee.html)
+###### ~[Jay Inslee]~
+
 
 ###### [Amy Klobuchar](https://amyklobuchar.com/)
 * [Policy Proposals](https://www.ballot-knowledge-network.org/presidential-primaries-2020/amy-klobuchar.html)
@@ -84,8 +84,8 @@ Contact us if you would like to participate.
 ###### [Wayne Messam](https://wayneforamerica.com/)
 * [Policy Proposals](https://www.ballot-knowledge-network.org/presidential-primaries-2020/wayne-messam.html)
 
-###### [Seth Moulton](https://sethmoulton.com/)
-* [Policy Proposals](https://www.ballot-knowledge-network.org/presidential-primaries-2020/seth-moulton.html)
+###### ~[Seth Moulton]~(https://sethmoulton.com/)
+
 
 ###### [Beto O’Rourke](https://betoorourke.com/)
 * [Policy Proposals](https://www.ballot-knowledge-network.org/presidential-primaries-2020/beto-o'rourke.html)

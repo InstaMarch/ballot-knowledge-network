@@ -63,9 +63,6 @@ Contact us if you would like to participate.
 ###### [Tulsi Gabbard](https://www.votetulsi.com/)
 * [Policy Proposals](https://www.ballot-knowledge-network.org/presidential-primaries-2020/tulsi-gabbard.html)
 
-###### [Mike Gravel](https://www.mikegravel.org/)
-* [Policy Proposals](https://www.ballot-knowledge-network.org/presidential-primaries-2020/mike-gravel.html)
-
 ###### [Kamala Harris](https://kamalaharris.org/)
 * [Policy Proposals](https://www.ballot-knowledge-network.org/presidential-primaries-2020/kamala-harris.html)
 
@@ -102,6 +99,7 @@ Contact us if you would like to participate.
 ###### ~[Jay Inslee]~
 ###### ~[Kirsten Gillibrand]~
 ###### ~[Eric Swalwell]~
+###### ~[Mike Gravel]~
 ###### ~[John Hickenlooper]~
 
 ##### The Green Party Primary
